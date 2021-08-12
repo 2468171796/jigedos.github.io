@@ -117,7 +117,7 @@ CCTV13,http://39.134.24.24/PLTV/88888888/224/3221225650/index.m3u8
 CCTV14,http://39.134.24.24/PLTV/88888888/224/3221225658/index.m3u8
 
 
-地方卫视高清,#genre#
+卫视高清,#genre#
 安徽卫视,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-anhuistv/HD-8000k-1080P-anhuistv
 安徽卫视,http://223.110.246.67/ott.js.chinamobile.com/PLTV/4/224/3221227759/index.m3u8
 安徽卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225737/index.m3u8
@@ -541,8 +541,119 @@ SiTV动漫秀场 ,http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3
 SiTV游戏风云 ,http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8
 SiTV欢笑剧场 ,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
 SiTV极速汽车 ,http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8
+全球音乐,#genre#
+1 Music Channel[1024*576],https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
+1Music Channel Hungary[1047*576],http://1music.hu/1music.m3u8
+1muz.com HD[1280*720],http://hz1.teleport.cc/HLS/HD.m3u8
+4FUN TV Polonia[1024*576],https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+9 ВОЛНА[1280*720],http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/chunks.m3u8
+30A Music[1280*720],https://30a-tv.com/music.m3u8
+91 NRJ MUSIC[1280*720],http://tv.nrg91.gr:1935/onweb/live/master.m3u8
+100% Viva[1920*1080],https://hls.myvideocontent.ru/hls2/vivarussia/index.m3u8
+ACB TV[1280*720],http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
+Afrobeats[852*480],https://stream.ecable.tv/afrobeats/index.m3u8
+Alb MUSIC[1280*720],http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
+Arancia Television[1280*720],https://stream3.xdevel.com/video0s975447-164/stream/playlist.m3u8
+Balkanika Music TV[480*270],rtsp://stream.teracomm.bg/balkanika
+Baraza TV[1920*1080],https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
+Baraza TV Greek Music Hits[1920*1080],https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
+BellaEMonella Tv[1920*1080],https://58d921499d3d3.streamlock.net/RadioBelllaemonellaTV/livestream/playlist.m3u8
+Bella Radio Tv[1920*1080],https://server.bellaradio.it:1443/live/bellaradiotv/playlist.m3u8
+Berlin Metal Tv[1280*720],https://v3.catcast.me/content/33816/index.m3u8
+BIZ Music[1280*720],https://st.biztv.uz/hls/m_mid/index.m3u8
+BN Music[640*360],https://cdn1.mobiletv.bg/T5/bn_music/bn_music_794613_850k.m3u8
+Bonce TV[853*480],https://seswa.bonce.tv/hls/bonceswa.m3u8
+BSO Channel[1920*1080],https://57068da1deb21.streamlock.net/bwr/bwr/playlist.m3u8
+Caltex TV[1280*720],https://vid1.caltexmusic.com/hls/caltextv.m3u8
+Canal 3 Trelew[1280*720],https://panel.dattalive.com/8034/8034/playlist.m3u8
+CannaliMusic[1280*720],https://live.streams.ovh:443/cannali/cannali/playlist.m3u8
+CITY TV[1024*576],https://tv.city.bg/play/tshls/citytv/3.m3u8
+CMC - California[1280*720],https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
+CMC - Country[1280*720],https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
+CMT Music[1280*720],https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+Colosal Tv HD[1280*720],http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+Company TV[1280*720],http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8
+Credo TV[1280*720],http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
+Страна FM[1280*720],http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+CZworka[1920*1080],https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8
+DanceStar TV[1280*720],https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8
+Desi Channel[720*400],https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
+Deutsches Musik Fernsehen.TV[1280*720],https://tv.artcom-venture.de/dmf/tv_720.m3u8
+Dijlah Tarab[1920*1080],https://ghaasiflu.online/tarab/index.m3u8
+Ditty TV[1280*720],https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
+EBC1 TV[1280*720],https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
+Eibiza-tv Maxximixx[1920*1080],https://tv.everestcast.com:3170/stream/play.m3u8
+Eldoradio TV[1920*1080],https://live-edge.rtl.lu/eldotv/smil:eldotv.smil/playlist.m3u8
+Euro Indie Music Chart TV[640*360],http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+Fox News Radio[320*192],http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
+Ganje Hozoor[1280*720],https://topfi.ios.internapcdn.net/topfi/live_1/Test/Test.m3u8
+Generations TV[1024*576],https://edge8.vedge.infomaniak.com/livecast/ik:generation-tv/chunklist_w1661378677.m3u8
+Gem 24B[960*540],https://d2e40kvaojifd6.cloudfront.net/stream/24b/playlist.m3u8
+Gem AZ[960*540],https://d2e40kvaojifd6.cloudfront.net/stream/gem_az/playlist.m3u8
+Gem Latino[960*540],https://d2e40kvaojifd6.cloudfront.net/stream/gem_latino/playlist.m3u8
+Gem Mifa[960*540],https://d2e40kvaojifd6.cloudfront.net/stream/mifa/playlist.m3u8
+Globo Tv Music Honduras[1280*720],https://59c5c86e10038.streamlock.net/8122/8122/playlist.m3u8
+GO-RTV[1280*720],http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
+Groovy Catch[1280*720],http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+HIT FM (Ru)[1280*720],http://hithd.camsh.orsk.ru/hls/hithd.m3u8
+Hit Music Hungary[853*480],http://hitmusic.hu/hitmusic.m3u8
+H!t Music Channel Romania[1024*576],https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/index.m3u8
+Новое[1920*1080],https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
+Jawhara FM Studio[1280*720],https://streaming.toutech.net/live/jfm/index.m3u8
+Jhanjar Music[1280*720],http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+JOE fm[1280*720],https://dpp-streamlive-plain.medialaancdn.be/joe_kijklive/plain/hls_hd.m3u8
+Kronehit HD[320*180],https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+Kuriakos Music[1920*1080],http://c2.manasat.com:1935/kmusic/kmusic3/FluxusTV.m3u8
+La Mega Mundial USA[1280*720],https://59514edd5dd8e.streamlock.net/lamegamundial/lamegamundial2/playlist.m3u8
+Latvijas Radio 1[640*360],https://5a44e5b800a41.streamlock.net/liveVLR1/mp4:LR1/playlist.m3u8
+Latvijas Radio 3[320*240],http://5a44e5b800a41.streamlock.net/liveVLR3/mp4:Klasika/playlist.m3u8
+Latvijas Radio 4[640*360],http://5a44e5b800a41.streamlock.net/liveVLR4/mp4:LR4/playlist.m3u8
+LivexLive TV[640*360],https://livexlive2.akamaized.net/hls/live/2013184/linear_1/master.m3u8
+Love FM TV[1920*1080],https://56b50ada2d659.streamlock.net/LoveFM/livestream/playlist.m3u8
+М2[640*360],https://live.m2.tv/hls3/stream.m3u8
+Матур ТВ HD[1920*1080],https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
+Magic TV[854*480],https://itv.streams.ovh/magictv/magictv/playlist.m3u8
+Marutam Music[720*400],https://mntv.livebox.co.in/musichls/live.m3u8
+Metal Tv[1280*720],http://v1.catcast.tv/content/33816/index.m3u8
+MH ONE MUSIC[640*360],http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/chunklist.m3u8
+Mihan TV[640*360],http://iptv.mihantv.com/live/playlist.m3u8
+Mola TV España[1280*720],http://ventdelnord.tv:8080/mola/directe.m3u8
+Mosaique FM Studio[854*480],https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8
+MTC[852*480],http://mellitv.tulix.tv:1935/mellitv/myStream.sdp/playlist.m3u8
+MTV Block Party[1280*720],https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+MTV Biggest Pop[1280*720],https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+MTV Biggest Pop 2[1280*720],https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS05/master.m3u8
+MTV YO[1280*720],https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+MTV YO 2[1280*720],https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS04/master.m3u8
+MTV Spankin News[1280*720],https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+Music 24[1024*576],https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
+MusicTop[1280*720],https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1732432868_b1828000_sleng.m3u8
+Music Top[1280*720],http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
+Muzzik Rock&Roll Serbia[1280*720],https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
+Muzzik Cafe&Club Serbia[1280*720],https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+Muzzik Worldwide Serbia[1280*720],https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
+Muzzik Jeka Serbia[1280*720],https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
+Muzzik Mediteraneo Serbia[1280*720],https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
+Muzzik OKK Serbia[1280*720],https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
+МузСоюз[1024*576],http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
+NG[1280*720],https://live.streams.ovh/NGradio/NGradio/playlist.m3u8
+NSL Radio TV[1920*1080],https://streannunsec-lh.akamaihd.net/i/tv_1@868496/index_1_av-p.m3u8?sd=10&set-segment-duration=smoothest&rebase=on
+obosso.tv[1920*1080],https://edge2.vedge.infomaniak.com/livecast/ik:obossotv_6/manifest.m3u8
+Óčko[720*405],https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
+Óčko[960*540],https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+Óčko Expres[960*540],https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+Óčko Gold[720*405],https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
+Óčko STAR[960*540],https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+OL3 Radio Tv[1280*720],https://5c389faa13be3.streamlock.net:9553/ol3radio/ol3radio/chunklist_w1717825683.m3u8
+ONFM TV Portugal[1280*720],https://5ce9406b73c33.streamlock.net/ONFM/livestream/master.m3u8
+Omroep Brabant[1920*1080],http://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8
+Omroep Brabant Radio[1920*1080],http://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/visualradio/index.m3u8
+ORTS Oosterhoutse Radio[854*480],https://ms2.mx-cd.net/tv/200-1006554/ORTS_TV.smil/playlist.m3u8
+Радио Шансон[640*360],http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
+Радио Шансон[1280*720],http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
+Pamir TV[1920*1080],http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 
-Hk-tvb,#genre#
+香港-tvb,#genre#
 TVB 翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 TVB 明珠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 TVB翡翠华丽台,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
@@ -550,7 +661,7 @@ TVB星河频道,http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
 TVB星河频道,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 TVB无线财经,http://cdn.hkdtmb.com/hls/85/index.m3u8
 TVB无线新闻,http://cdn.hkdtmb.com/hls/83/index.m3u8
-HK-凤凰,#genre#
+香港-凤凰,#genre#
 凤凰卫视,http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
 凤凰卫视,http://117.169.120.138:8080/live/fhchinese/.m3u8
 凤凰卫视,http://117.169.120.138:8080/live/fhchinese/index.m3u8
@@ -587,9 +698,22 @@ HK-凤凰,#genre#
 亚美電視,https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 亚美卫视720P,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 耀才财经台,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-
-TW,#genre#
-中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
+澳门,#genre#
+Canal Macau (720p),http://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
+Canal Macau (720p),http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
+TDM Info. Macau (720p),http://live4.tdm.com.mo:80/ch5/_definst_/info_ch5.live/playlist.m3u8
+TDM Macau (720p),http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8
+TDM Macau Satelite (720p),http://live4.tdm.com.mo:80/ch3/_definst_/ch3.live/playlist.m3u8
+TDM Sports Macau (720p),http://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live/playlist.m3u8
+澳視澳門 (720p),http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
+澳视澳门 (720p),http://live3.tdm.com.mo:1935/ch1/ch1.live/playlist.m3u8
+澳門-MACAU (720p),http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
+澳門綜藝 (720p),http://live4.tdm.com.mo/ch6/_definst_/hd_ch6.live/playlist.m3u8
+澳門資訊 (720p),http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
+澳门体育 (720p),http://live3.tdm.com.mo:1935/ch4/sport_ch4.live/playlist.m3u8
+澳门卫星 (720p),http://live3.tdm.com.mo:1935/ch3/ch3.live/playlist.m3u8
+澳门综艺 (720p),http://live2.tdm.com.mo:1935/ch6/hd_ch6.live/playlist.m3u8
+台湾,#genre#
 中视,rtmp://59.124.75.153/sat/tv091
 中视,rtmp://161.202.204.248:1935/sat/tv091
 中视,rtmp://161.202.204.248/sat/tv091
@@ -616,12 +740,12 @@ TW,#genre#
 东森财经新闻,rtmp://59.124.75.153:1935/sat/tv571
 东森财经新闻,rtmp://161.202.204.248:1935/sat/tv571
 TVBS新聞,rtmp://161.202.204.248/sat/tv551
-TVBS新闻[720*408,rtmp://161.202.204.248/sat/tv552
+TVBS新闻,rtmp://161.202.204.248/sat/tv552
 TVBS新闻,rtmp://59.124.75.153:1935/sat/tv551
 TVBS新闻,rtmp://59.124.75.153/sat/tv551
 TVBS新闻,rtmp://161.202.204.248:1935/sat/tv551
 TVBS新闻,rtmp://161.202.204.248/sat/tv551
-TVBS欢乐[720*408,rtmp://161.202.204.248/sat/tv422
+TVBS欢乐,rtmp://161.202.204.248/sat/tv422
 TVBS欢乐,rtmp://59.124.75.153:1935/sat/tv421
 TVBS欢乐,rtmp://59.124.75.153/sat/tv421
 TVBS欢乐,rtmp://161.202.204.248:1935/sat/tv421
@@ -718,19 +842,6 @@ Pilipinas HD,https://d3cbe0gidjd4k2.cloudfront.net/channel_5/smil:channel_5.smil
 Shop TV (480p),https://d3cbe0gidjd4k2.cloudfront.net/channel_1/channel1/playlist.m3u8
 Super Radyo DZBB [Not 24/7],http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?wowzasessionid=693701106
 日本,#genre#
-Animax Japan (Indonesian Subs) [Geo-blocked],http://210.210.155.35/dr9445/h/h02/01.m3u8
-Animax Japan (Indonesian Subs) [Geo-blocked],http://210.210.155.35/dr9445/h/h144/01.m3u8
-like Gecko Chrome/76.0.3809.25 Safari/537.36,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/playlist.m3u8
-like Gecko Chrome/76.0.3809.25 Safari/537.36,https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
-AT-X,https://sub2.neetball.net/live/neet.m3u8
-BS TV Tokyo (1080p),https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
-CGNTV Japan (720p),http://cgntv-glive.ofsdelivery.net/live/cgntv_jp/playlist.m3u8
-Fuji TV,https://fujitv.mov3.co/hls/fujitv.m3u8
-GSTV (720p),https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8
-GTN Typhome (English Subs) (720p) [Not 24/7],https://gorilla.gaki-no-tsukai.eu/hls/test.m3u8
-Gunma TV,https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
-Hiroshima Weather Information,https://hiroshima-tv-live.hls.wselive.stream.ne.jp/hiroshima-tv-live/live/playlist.m3u8
-New Japan Pro Wrestling World (540p),https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8
 NHK Chinese Vision,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 NHK General TV,https://nhk.mov3.co/hls/nhk.m3u8
 NHK World (720p),https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/sycc-live/zh/playlist.m3u8
@@ -752,6 +863,19 @@ WakuWaku Japan,https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_dash_vmx/W
 Weather News,https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 日本购物1,http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 日本购物2,http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
+Animax Japan (Indonesian Subs) [Geo-blocked],http://210.210.155.35/dr9445/h/h02/01.m3u8
+Animax Japan (Indonesian Subs) [Geo-blocked],http://210.210.155.35/dr9445/h/h144/01.m3u8
+like Gecko Chrome/76.0.3809.25 Safari/537.36,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/playlist.m3u8
+like Gecko Chrome/76.0.3809.25 Safari/537.36,https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
+AT-X,https://sub2.neetball.net/live/neet.m3u8
+BS TV Tokyo (1080p),https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
+CGNTV Japan (720p),http://cgntv-glive.ofsdelivery.net/live/cgntv_jp/playlist.m3u8
+Fuji TV,https://fujitv.mov3.co/hls/fujitv.m3u8
+GSTV (720p),https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8
+GTN Typhome (English Subs) (720p) [Not 24/7],https://gorilla.gaki-no-tsukai.eu/hls/test.m3u8
+Gunma TV,https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
+Hiroshima Weather Information,https://hiroshima-tv-live.hls.wselive.stream.ne.jp/hiroshima-tv-live/live/playlist.m3u8
+New Japan Pro Wrestling World (540p),https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8
 泰国,#genre#
 ALTV (1080p),https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
 ASTV News 1 (1080p),http://news1.live14.com/stream/news1_hi.m3u8
@@ -860,49 +984,111 @@ Wairarapa TV,https://stream.wairarapatv.co.nz/Broadband_High/playlist.m3u8
 Zoo Moo (1080p),https://rockentertainment-zoomoo-1.roku.wurl.com/manifest/playlist.m3u8
 Zoo Moo (720p),https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
 Zoo Moo (Australia) (1080p),https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-美洲,#genre#
-美国CGTN (Opt-1)[1024*576],http://live.cgtn.com/500/prog_index.m3u8
-美国CGTN (Opt-2)[1024*576],http://live.cgtn.com/1000/prog_index.m3u8
-美国Red Bull TV SD[960*540],http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-拉丁美洲CGTN[1024*576],http://livees.cgtn.com/1000e/prog_index.m3u8
-拉丁美洲La Mega Mundial[1280*720],http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
-拉丁美洲TV Marti[426*240],http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
-阿根廷Canal 4 Posadas[640*360],http://184.154.28.210:1935/canal4/canal4/live.m3u8
-阿根廷Garage TV[360*242],http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
-阿根廷Radio TV Neuquen[1280*720],http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8
-秘鲁Monterrico TV[1920*1080],http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
-西欧,#genre#
-法国Francophonie 24[640*360],http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
-德国Baden TV[1280*720],http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
-德国MDF.1[1920*1080],http://62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8
-德国QVC[512*288],http://ios-stream.qvc.de/qvc.m3u8
-意大利Radio Iglesias[1024*576],http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
-西班牙TV Galicia Europa[1280*720],http://europa-crtvg.flumotion.com/playlist.m3u8
-丹麦TV2 Bornholm[1920*1080],http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
-东欧,#genre#
-俄罗斯Mir[1920*1080],http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-俄罗斯MostVideo TV 1[1280*720],http://w4.mostvideo.tv/tv/ch1.m3u8
-俄罗斯Muz Sojuz[1024*576],http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
-俄罗斯MTVmix Ufa[559*384],http://81.30.182.82:18092/hls/live.m3u8
-俄罗斯Nastoyashcheye Vremya[426*240],http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
-俄罗斯RBC (Opt-3)[1024*576],http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
-俄罗斯Shanson TV (Opt-1)[720*576],http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
-俄罗斯Shanson TV (Opt-2)[640*360],http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
-俄罗斯Tivikom Ulan-Udje[1920*1080],http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
-俄罗斯Tjumenskoe Vremja[1024*576],http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8
-俄罗斯TRO Soyuz[1024*576],http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
-俄罗斯Ugra TV[654*360],http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8
-波兰TV Kujawy (Opt-1)[1024*576],http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
-波兰TV Torun[640*360],http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8
-波兰TVP3 Bialystok[735*404],http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpbialystok
-波兰TVP3 Lodz[735*404],http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvplodz
-乌克兰100% News[768*576],http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
-乌克兰Lale[896*504],http://stream.atr.ua/lale//live/index.m3u8
-捷克Retro (Opt-1)[640*360],http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-斯洛伐克TV 8[640*360],http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/chunklist_w974670813.m3u8
-斯洛伐克TVNZ[864*486],http://s1.media-planet.sk:80/live/novezamky/BratuMarian.m3u8
-拉脱维亚TV Net[640*360],http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8
-
+电台-港台
+香港电台第一台,https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/master.m3u8
+香港电台第一台,https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/index_56_a-p.m3u8
+香港电台第二台,https://rthkaudio2-lh.akamaihd.net/i/radio2_1@355865/master.m3u8
+香港电台第三台,https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8
+香港电台第五台,https://rthkaudio5-lh.akamaihd.net/i/radio5_1@355868/master.m3u8
+香港电台第六台：香港之声,http://rthkaudio6cnr-lh.akamaihd.net/i/radio6cnr_1@575604/master.m3u8
+香港電台普通話台,https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8
+台湾古典音乐台Classical FM 97.7,http://59.120.88.155:8000/live.mp3
+佳音台北FM90.9,http://cdn51.ccdntech.com/live-http/_definst_/vod51_Live/ch01/playlist.m3u8
+台湾大千电台,http://stream.superfm99-1.com.tw:8554/
+国立教育广播电台台北总台FM台,https://cast.ner.gov.tw/1
+国立教育广播电台台北总台AM台,https://cast.ner.gov.tw/2
+台湾台艺之声广播电台,https://video.ntua.edu.tw/live/ntua/index.m3u8
+电台-海外华语
+西澳华语广播电台,http://streamer5.rightclickitservices.com:7200/stream
+加拿大国家广播电台(普通话),https://wowzaprodhd84-lh.akamaihd.net/i/4a22ee1f_1@8130/master.m3u8
+加拿大中文电台FM 96.1,https://5b2959fe11444.streamlock.net/radio/fm961.stream/playlist.m3u8
+加拿大中文电台FM 96.1,https://5b2959fe11444.streamlock.net/radio/fm961.stream/chunklist_w441033106.m3u8
+加拿大中文电台AM1470,https://5b2959fe11444.streamlock.net/radio/am1470.stream/playlist.m3u8
+加拿大中文电台AM1470,https://5b2959fe11444.streamlock.net/radio/am1470.stream/chunklist_w987170920.m3u8
+美国之音VOA 汉语,https://voa11.akacast.akamaistream.net/7/683/437793/v1/ibb.akacast.akamaistream.net/voa11
+NHK中文广播,https://nhkworld.webcdn.stream.ne.jp/www11/radiojapan/all/263948/live_s.m3u8
+AsiaFM亚洲经典台,https://lhttp.qingting.fm/live/5021912/64k.mp3
+AsiaFM HD音乐台,https://lhttp.qingting.fm/live/5022405/64k.mp3
+AsiaFM亚洲音乐台,https://lhttp.qingting.fm/live/4581/64k.mp3
+ABC Radio Canberra,http://abcradiolivehls-lh.akamaihd.net/i/localcanberra_1@327263/master.m3u8
+ABC Jazz,http://abcradiolivehls-lh.akamaihd.net/i/abcjazz_1@327288/master.m3u8
+马来西亚MY FM音乐台,http://astro1.rastream.com/myfm
+马来西亚Melody音乐台,https://astro3.rastream.com/melody
+Mandarin Radio,http://streaming.radionomy.com/JamendoLounge
+俄罗斯卫星社中文广播,http://icecast-ruvr.cdnvideo.ru/rian.voicechi
+纽约古典音乐歌剧台,https://opera-stream.wqxr.org/operavore-web
+纽约WABH-AM 1380(Country),https://ice24.securenetsystems.net/WABH
+PigpenRadio,http://178.79.158.160:8213/stream?type=http&nocache=8702
+CCN塞浦路斯中文电台,https://cdn.istoikona.com/ccnradio/ccnradio/icecast.audio
+电台-CNR
+CNR 藏语广播,http://ngcdn012.cnr.cn/live/zygb/index.m3u8
+CNR 哈语广播,http://live.xmcdn.com/live/1396/64.m3u8
+CNR 哈语广播,http://ngcdn025.cnr.cn/live/hygb/index.m3u8
+CNR 华夏之声,http://live.xmcdn.com/live/16/64.m3u8
+CNR 华夏之声,http://ls.qingting.fm/live/392.m3u8
+CNR 华夏之声,http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
+CNR 经典音乐广播 101.8,http://live.xmcdn.com/live/13/64.m3u8
+CNR 经典音乐广播 101.8,http://ls.qingting.fm/live/389.m3u8
+CNR 经典音乐广播 101.8,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+CNR 经济之声,http://live.xmcdn.com/live/1066/64.m3u8
+CNR 经济之声,http://ls.qingting.fm/live/387.m3u8
+CNR 经济之声,http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+CNR 老年之声,http://live.xmcdn.com/live/39/64.m3u8
+CNR 老年之声,http://ls.qingting.fm/live/396.m3u8
+CNR 老年之声,http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
+CNR 民族之声,http://live.xmcdn.com/live/17/64.m3u8
+CNR 民族之声,http://ls.qingting.fm/live/394.m3u8
+CNR 民族之声,http://ngcdn009.cnr.cn/live/mzzs/index.m3u8
+CNR 神州之声,http://ls.qingting.fm/live/391.m3u8
+CNR 神州之声,http://ngcdn006.cnr.cn/live/szzs/index.m3u8
+CNR 维语广播,http://live.xmcdn.com/live/40/64.m3u8
+CNR 维语广播,http://ngcdn013.cnr.cn/live/wygb/index.m3u8
+CNR 文艺之声,http://live.xmcdn.com/live/38/64.m3u8
+CNR 文艺之声,http://ls.qingting.fm/live/395.m3u8
+CNR 文艺之声,http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
+CNR 香港之声,http://live.xmcdn.com/live/44/64.m3u8
+CNR 香港之声,http://ls.qingting.fm/live/4986.m3u8
+CNR 香港之声,http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
+CNR 音乐之声,http://live.xmcdn.com/live/12/64.m3u8
+CNR 音乐之声,http://ls.qingting.fm/live/388.m3u8
+CNR 音乐之声,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+CNR 娱乐广播,http://live.xmcdn.com/live/42/64.m3u8
+CNR 娱乐广播,http://ls.qingting.fm/live/398.m3u8
+CNR 娱乐广播,http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
+CNR 中国交通广播,http://live.xmcdn.com/live/45/64.m3u8
+CNR 中国交通广播,http://ls.qingting.fm/live/4985.m3u8
+CNR 中国交通广播,http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
+CNR 中国乡村之声,http://live.xmcdn.com/live/46/64.m3u8
+CNR 中国乡村之声,http://ls.qingting.fm/live/5039.m3u8
+CNR 中国乡村之声,http://ngcdn017.cnr.cn/live/xczs/index.m3u8
+CNR 中国之声,http://live.xmcdn.com/live/1065/64.m3u8
+CNR 中国之声,http://ls.qingting.fm/live/386.m3u8
+CNR 中国之声,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+CNR 中华之声,http://ls.qingting.fm/live/390.m3u8
+CNR 中华之声,http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
+CNR 维语广播,http://ls.qingting.fm/live/4988.m3u8
+电台-CRI
+CRI 怀旧金曲频道,https://lhttp.qingting.fm/live/5022038/64k.mp3
+CRI 南海之声,http://satellitepull.cnr.cn/live/wxnhzs/playlist.m3u8
+CRI 中文环球广播,https://lhttp.qingting.fm/live/4995/64k.mp3
+CRI Hit FM FM88.7,http://live.xmcdn.com/live/75/64.m3u8
+CRI Hit FM FM88.7,http://ls.qingting.fm/live/1007.m3u8
+CRI Hit FM FM88.7,http://sk.cri.cn/887.m3u8
+CRI NEWS Plus AM1008,http://sk.cri.cn/am1008.m3u8
+CRI NEWS Plus AM846,http://sk.cri.cn/am846.m3u8
+CRI 海峡飞虹,http://ls.qingting.fm/live/1734855.m3u8
+CRI 海峡飞虹,http://sk.cri.cn/hxfh.m3u8
+CRI 环球资讯广播 FM90.5,http://live.xmcdn.com/live/1040/64.m3u8
+CRI 环球资讯广播 FM90.5,http://ls.qingting.fm/live/24035.m3u8
+CRI 环球资讯广播 FM90.5,http://sk.cri.cn/905.m3u8
+CRI 南海之声,http://live.xmcdn.com/live/1054/64.m3u8
+CRI 南海之声,http://ls.qingting.fm/live/62624.m3u8
+CRI 南海之声,http://sk.cri.cn/nhzs.m3u8
+CRI 轻松调频 FM91.5,http://live.xmcdn.com/live/1042/64.m3u8
+CRI 轻松调频 FM91.5,http://ls.qingting.fm/live/1006.m3u8
+CRI 中文环球广播,http://live.xmcdn.com/live/1043/64.m3u8
+CRI 中文环球广播,http://ls.qingting.fm/live/4995.m3u8
+CRI 中文环球广播,http://sk.cri.cn/hyhq.m3u8
 音乐,#genre#
 毛不易—像我这样的人,https://vd3.bdstatic.com/mda-ka8qm8710ymkqdry/hd/mda-ka8qm8710ymkqdry.mp4?pd=20&vt=1
 毛不易—不染,https://vd3.bdstatic.com/mda-jmceuahfwxarnh7v/hd/mda-jmceuahfwxarnh7v.mp4?pd=20&playlist=%5B%22hd%22%2C%22sc%22%5D
