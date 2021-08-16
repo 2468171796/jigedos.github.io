@@ -1440,7 +1440,7 @@ Wairarapa TV,http://stream.wairarapatv.co.nz/Cellular_High/playlist.m3u8
 Zoo Moo (1080p),https://rockentertainment-zoomoo-1.roku.wurl.com/manifest/playlist.m3u8
 Zoo Moo (720p),https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
 Zoo Moo (Australia) (1080p),https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-(↓↓↓PG18)_8888,#genre#
+↓PG18_8888,#genre#
 A3 Bikini,https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
 A3Bikini ,https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
 AdultIPTV.net Anal ,http://cdn.adultiptv.net/anal.m3u8
