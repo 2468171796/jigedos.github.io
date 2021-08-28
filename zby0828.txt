@@ -813,8 +813,7 @@ CNC 中文,http://39.134.115.163:8080/PLTV/88888910/224/3221225694/index.m3u8
 凤凰资讯,https://d158f3mdhc5kf4.cloudfront.net/p1_cbr_lo_720p.m3u8
 凤凰资讯,http://117.169.120.138:8080/live/fhzixun/.m3u8
 凤凰资讯,http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
-
-TVB-HK,#genre#
+香港区,#genre#
 TVB 翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 TVB 翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 TVB 翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1&lv=1&c=0&s=4&v=100&wh=16:9&p=1
@@ -877,7 +876,7 @@ ViuTV,rtmp://202.39.64.233/channel/60c2d2bd961593122ebaf8b7?sign=mcnHvuVPiT02cz%
 亚美卫视,https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 亚美卫视,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 亚洲美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
-TW#genre#
+台湾区,#genre#
 华视,rtmp://161.202.204.248/sat/tv112
 华视,rtmp://161.202.204.248:1935/sat/tv111
 华视,rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d46?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
@@ -962,7 +961,7 @@ Mono综合,rtmp://59.124.75.153:1935/sat/tv761
 纬来育乐,rtmp://161.202.204.248:1935/sat/tv701
 纬来育乐,rtmp://59.124.75.153/sat/tv701
 纬来育乐,rtmp://59.124.75.153:1935/sat/tv701
-ma#genre#
+澳门区#genre#
 澳门奥视,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
 澳门葡语,http://61.244.22.5/ch2/ch2.live/chunklist_w1632175875.m3u8
 澳门卫视,http://61.244.22.4/ch3/ch3.live/chunklist_w415594313.m3u8
@@ -1009,7 +1008,7 @@ Astro-港剧台,http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8
 Astro-港剧台,https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 Astro-港剧台,https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
 Astro-港剧台,https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
-地理&探索#genre#
+地理&探索,#genre#
 Discovery 亚洲,https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
 Discovery World,http://178.175.132.170:8888/02_DiscoveryHDWorld/chunklist.m3u8
 Discovery World HD,http://l3d.us:8080/MENDOZAEEUU12/mJp8eMqJB9/10415
@@ -1052,7 +1051,7 @@ NATURE TV2,https://stmv1.srvif.com/nattv/nattv/chunklist_w1358547370.m3u8
 Science et Vie,http://hbox.cdnss.me:80/live/bestcs/bestcs/636.m3u8
 Histoire,http://hbox.cdnss.me:80/live/bestcs/bestcs/3403.m3u8
 Local Now Discover,https://linear-145.frequency.stream/dist/localnow/145/hls/master/playlist.m3u8
-少儿频道#genre#
+少儿频道,#genre#
 CCTV14少儿,http://117.169.120.160:8080/live/cctv-14/1.m3u8
 CCTV新科动漫,http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2_hd.m3u8
 茶啊二中_虎牙,http://txdirect.flv.huya.com/huyalive/28596569-28596569-122821328632807424-2633424538-10057-A-0-1.flv?wsSecret=165bd67af60009b2bb4bb39f35062005&wsTime=610fc9ca&uid=0&seqid=16283382322856384&ctype=tars_mobile&ver=1&t=103
@@ -1077,7 +1076,6 @@ CCTV新科动漫,http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2_hd
 卡酷少儿,http://223.110.228.17/ott.js.chinamobile.com/PLTV/3/224/3221227566/index.m3u8
 卡酷少儿,http://39.134.115.163:8080/PLTV/88888910/224/3221225677/index.m3u8
 卡酷少儿,http://183.207.248.71:80/cntv/live1/n-kakukaton/n-kakukaton
-
 南京少儿,http://ls.qingting.fm/live/3701149.m3u8
 山西少儿,http://live2.sxrtv.com/flvss?bitrate=800000&channel=Shan1XiChild
 上海哈哈炫动,http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/xuandongkaton/1.m3u8
@@ -1092,7 +1090,6 @@ CCTV新科动漫,http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2_hd
 动漫秀场,http://183.207.255.190/live/program/live/dmxchd/4000000/mnf.m3u8
 动漫秀场,http://39.134.39.38/PLTV/88888888/224/3221226197/index.m3u8
 金鹰卡通,http://111.12.101.23:6610/PLTV/77777777/224/3221225702/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-
 猫和老鼠,http://tx.flv.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.flv?wsSecret=56ddfb47302090538f9b95d7ef4341cb&wsTime=610fc9da&uid=0&seqid=16283382349371774&ctype=tars_mobile&ver=1&t=103
 龙珠Z,http://bd.hls.huya.com/src/2293333915-2293333915-9849794163732643840-4586791286-10057-A-0-1.m3u8?wsSecret=92c58c4e98815f56cc1ea249fb724853&wsTime=611e2887&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Ad3%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*
 龙珠超,http://bd.hls.huya.com/src/146501201-146501201-629217867119722496-293125858-10057-A-0-1.m3u8?wsSecret=ec2fc0c3e1749c1ed9b844289cca20af&wsTime=611e28a7&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Afz6%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*
@@ -1105,7 +1102,7 @@ CCTV新科动漫,http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2_hd
 熊大过年,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ae265653fe149069c3b53e31caaf060/1200.m3u8
 狮子王国,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
 猪侠英雄,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0f03b08bc7b042358144617000fd2931/1200.m3u8
-电影#genre#
+电影,#genre#
 漫威DC,http://3954-out.liveplay.myqcloud.com/live/3954_616645877.flv?bizid=3954&txSecret=de89be9b2bb7deb018b4a7f1491cac3b&txTime=612a2149
 漫威DC,http://3954-out.liveplay.myqcloud.com/live/3954_616645877.flv?bizid=3954&txSecret=33abbfbc6d9f10f475496bf611f8902a&txTime=6117e8b8
 漫威十周年系列,http://3954-out.liveplay.myqcloud.com/live/3954_360126181.flv?bizid=3954&txSecret=61605585d05f9c279f352f67176511ae&txTime=612aa336
@@ -1149,7 +1146,7 @@ yy影视,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
 高能烧脑时刻,http://dl.zhoujie218.top/dl/gdtv2.php?migu/625542365
 CBN每日影院,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=71&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 CHC动作电影,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=119&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-电视剧#genre#
+电视剧,#genre#
 TVB剧集,http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/virtuallive/5101059662/150/index.m3u8?&encrypt=1
 镖行天下,http://121.51.94.19/tx.hls.huya.com/src/1449574253-1449574253-6225874009758629888-2847699210-10057-A-0-1.m3u8
 日韩影院,http://111.31.3.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c57_lb_212_600_t10/c57_lb_212_600_t10.m3u8
@@ -1200,7 +1197,7 @@ TVB剧集,http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/virtuallive/5101059
 X特遣队:全员集结,https://api.xiongmiao888.cn/m3u8/1628248096979.m3u8
 哆啦A梦:伴我同行2,https://4kyasvip-oss-alivideo.4kya.com/s/Vx0aKtB/%E8%93%9D%E5%85%89%E7%94%B5%E5%BD%B1/%E6%97%A5%E6%9C%AC%E7%94%B5%E5%BD%B1/%E5%93%86LA%E6%A2%A6%E4%BC%B4W%E5%90%8C%E8%A1%8C2.mp4
 浪客剑心最终章追忆篇,https://sf1-ttcdn-tos.pstatp.com/obj/tos-cn-v-0004/6fdaf4e7056a46f791fff18dd50f65a4?x-security-token=MTYyNzk3NjM4MTUwM2UyMmVmZDUzLTM4NjgtNDFiMC04NjcxLTU5Nzk5YjVjMzVmMzE2Mjc5NzYzODE1MDM2NDFmM2RkYy1mN2RjLTQwNWQtOTQyYi05NTMwNzEyMGI0MjY%3d&response-content-disposition=attachment%3Bfilename%2A%3Dutf-8%27%272ffdac8ffc20423d8c573c23c5d2492b.mp4&AccessKeyId=AKLTyz9w352bT_GJVfB-QVoo7A&Expires=1627976381503&Signature=22e655e30e394a49ae30f4eb64fc6fb9
-韩国#genre#
+韩国,#genre#
 Arirang TV,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
@@ -1233,7 +1230,7 @@ CGNTV,http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/chunklist.m3u
 CGNTV Japan (720p),http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
 OHK,http://50.7.161.82:8277/streams/d/ohk_pye/playlist.m3u8
 OHK,http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
-日本#genre#
+日本,#genre#
 NHK Chinese Vision,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 NHK WORLD TV,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 NHK华语视界 (720p),https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
@@ -1266,7 +1263,7 @@ CGNTV Japan (720p),http://cgntv-glive.ofsdelivery.net/live/cgntv_jp/playlist.m3u
 GSTV (720p),https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8
 GTN Typhome (English Subs) (720p),https://gorilla.gaki-no-tsukai.eu/hls/test.m3u8
 Gunma TV,https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
-泰国#genre#
+泰国,#genre#
 ASTV News 1 (1080p),http://news1.live14.com/stream/news1_hi.m3u8
 like Gecko Chrome/76.0.3809.25 Safari/537.36,https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
 Thai PBS (Opt-4),http://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
@@ -1283,7 +1280,7 @@ True Sports HD,https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
 True Sports HD2,https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
 True Sports HD3,https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
 True Tennis HD,https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
-加拿大#genre#
+加拿大,#genre#
 The Shopping Channel,http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 5AAB TV,http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 BBC Toronto Gaunda Punjab,http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
@@ -1309,7 +1306,7 @@ Prime Canada TV,http://cdn27.live247stream.com/primecanada/247/primecanada/strea
 Tamil Vision International,http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8
 Tamil Vision TV,http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8
 Pardesi TV,http://stream.pardesitv.online/pardesi/index.m3u8
-法国#genre#
+法国,#genre#
 4 Kurd,http://51.210.199.28/hls/stream.m3u8
 4 Turk Music,http://51.210.199.30/hls/stream.m3u8
 Fashion TV,https://fashiontv-fashiontv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
@@ -1436,7 +1433,7 @@ Unearth (Spain),https://alchimie-unearth-3-es.samsung.wurl.com/manifest/playlist
 Vià Occitanie,https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117_medium/index.m3u8
 viàMATéLé,https://streamer01.myvideoplace.tv/streamer02/hls/MATL_VLOC_PAD_100919_medium/index.m3u8
 viàMoselleTV,https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
-新西兰#genre#
+新西兰,#genre#
 Breeze TV (720p),https://livestreamdirect-breezetv.mediaworks.nz/breezetv.m3u8
 Maori TV (1080p),https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master.m3u8
 Maori TV (1080p),https://bcsecurelivehls-i.akamaihd.net/hls/live/720612/1614493167001_1/master.m3u8
@@ -1447,7 +1444,7 @@ Wairarapa TV,http://stream.wairarapatv.co.nz/Cellular_High/playlist.m3u8
 Zoo Moo (1080p),https://rockentertainment-zoomoo-1.roku.wurl.com/manifest/playlist.m3u8
 Zoo Moo (720p),https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
 Zoo Moo (Australia) (1080p),https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-英法德意#genre#
+英法德意,#genre#
 法国Francophonie 24,http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
 德国Baden TV,http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
 德国MDF.1,http://62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8
@@ -1482,7 +1479,7 @@ Zoo Moo (Australia) (1080p),https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 俄罗斯Tjumenskoe Vremja,http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8
 俄罗斯TRO Soyuz,http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 俄罗斯Ugra TV,http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8
-新西兰#genre#
+新西兰,#genre#
 Maori TV (1080p),https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master.m3u8
 Maori TV (1080p),https://bcsecurelivehls-i.akamaihd.net/hls/live/720612/1614493167001_1/master.m3u8
 Rialto (1080p),https://rialto-rialto-samsungaustralia.amagi.tv/playlist.m3u8
@@ -1709,7 +1706,7 @@ sheep张艺兴,https://vdse.bdstatic.com/971347deaddd6fdb5ada6e87e4722ece.mp4?au
 王杰-说谎的爱人,http://vodcdn.video.taobao.com/oss/ali-video/c018ec304eb6566b56d7f0b85c77b473/video.m3u8
 李翊君-诺言,http://vodcdn.video.taobao.com/oss/ali-video/b8096cd4762369bbcb4ceb52cc25a938/video.m3u8
 李翊君-多情人都把灵魂给了谁,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/o1koj80kDcERprb8epC%40%40hd.m3u8
-2021神曲#genre#
+2021神曲,#genre#
 白月光与朱砂痣,https://vd2.bdstatic.com/mda-maij6as3g96970az/v1-cae/sc/mda-maij6as3g96970az.mp4?auth_key=1617101183-0-0-e93e7dc4ba17ac4b7480e6b00aa74492&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&did=087106dc4a782a246579d010463c3ad0&logid=0983209397&vid=1749499625834732513&pt=0&appver=2.7.6.2&model=MI+5&osver=10&cr=2&abtest=peav_l52&sle=1&sl=2358&split=2102146
 大风吹,https://vd4.bdstatic.com/mda-md7em6yt8xzcnjht/sc/cae_h264/1617849814/mda-md7em6yt8xzcnjht.mp4?auth_key=1617886505-0-0-8943f28393c858568a729824ade4129e&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&did=087106dc4a782a246579d010463c3ad0&logid=1505050108&vid=13175023365864408748&pt=0&appver=2.7.6.2&model=MI+5&osver=10&cr=2&abtest=peav_l52&sle=1&sl=1273&split=1177669
 夜夜夜漫长,https://vd3.bdstatic.com/mda-makm556xaqftgc7j/v1-cae/sc/mda-makm556xaqftgc7j.mp4?auth_key=1617101290-0-0-8a89b2eb4a599546c225b4d799c7da1b&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&did=087106dc4a782a246579d010463c3ad0&logid=1090272169&vid=8654274912678609854&pt=0&appver=2.7.6.2&model=MI+5&osver=10&cr=2&abtest=peav_l52&sle=1&sl=1152&split=1091866
@@ -1772,9 +1769,8 @@ We Are The World,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgpt6a4gUo1aeryAQ
 迈克尔杰克逊30周年演唱会片段-比利·金-BILLIE.JEAN,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgw9ma4gUo3YLDvgU.mp4
 泫雅-CHANGE-甩Nai舞,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgp92c4gUovM-V_QU.mp4
 EXID - Every Night,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgz-qc4gUo4vj-tQY.mp4
-
 Fail Army,#genre#
- (Brazil),https://failarmy-international-br.samsung.wurl.com/manifest/playlist.m3u8
+Brazil,https://failarmy-international-br.samsung.wurl.com/manifest/playlist.m3u8
 Fail Army Internatioanl (Mexico),https://failarmy-international-mx.samsung.wurl.com/manifest/playlist.m3u8
 Fail Army,https://9c17e762ec814557b3516dd3e0a7ca56.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex-intl_FailArmy/ade59f27-be9b-4b71-b8dc-05928c1dfdf4/2.m3u8
 Fail Army,https://failarmy-linear.plex.wurl.com/manifest/playlist.m3u8
