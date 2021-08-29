@@ -790,7 +790,6 @@ CNC 中文,http://39.134.115.163:8080/PLTV/88888910/224/3221225694/index.m3u8
 凤凰香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P
 凤凰香港,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8?icpid=88888888&from=0&hms_devid=3804
 凤凰香港,http://223.110.245.137/PLTV/3/224/3221226975/index.m3u8
-
 凤凰中文,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 凤凰中文,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8$JS1080P
 凤凰中文,http://223.110.245.136/PLTV/3/224/3221226923/index.m3u8
@@ -948,7 +947,7 @@ Mono综合,rtmp://59.124.75.153:1935/sat/tv761
 纬来育乐,rtmp://161.202.204.248:1935/sat/tv701
 纬来育乐,rtmp://59.124.75.153/sat/tv701
 纬来育乐,rtmp://59.124.75.153:1935/sat/tv701
-澳门区#genre#
+澳门区,#genre#
 澳门卫视,http://61.244.22.4/ch3/ch3.live/playelist.m3u8
 澳门卫视,http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
 澳门卫视,http://61.244.22.4/ch3/ch3.live/chunklist_w415594313.m3u8
@@ -1833,7 +1832,7 @@ Muzzik OKK Serbia[1280*720],https://muzzik-live.morescreens.com/mts-2/playlist.m
 SteelbirdMusic.in,http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
 RetroMusic,http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 1MusicChannel,http://www.1music.hu/1music.m3u8
-Fail Army,#genre#
+傻缺军团,#genre#
 Brazil,https://failarmy-international-br.samsung.wurl.com/manifest/playlist.m3u8
 Fail Army Internatioanl (Mexico),https://failarmy-international-mx.samsung.wurl.com/manifest/playlist.m3u8
 Fail Army,https://9c17e762ec814557b3516dd3e0a7ca56.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex-intl_FailArmy/ade59f27-be9b-4b71-b8dc-05928c1dfdf4/2.m3u8
@@ -1848,8 +1847,8 @@ Failarmy International (Sweden),https://failarmy-international-se.samsung.wurl.c
 FailArmy International,https://failarmy-international-eu.rakuten.wurl.com/manifest/playlist.m3u8
 FailArmy,https://failarmy-linear.samsung.wurl.com/manifest/playlist.m3u8
 FailArmy,https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/554158e864526b29254ff105/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=498&deviceId=554158e864526b29254ff105&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+高人军团,#genre#
 People are Awesome (720p),https://a357e37df8ec46719fdeffa29a3e8e40.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex-intl_PeopleAreAwesome/8fe64d6c-210c-42ac-8b42-8006b8721cf4/3.m3u8
-People are Awesome,#genre#
 People are Awesome,https://jukin-peopleareawesome-1.plex.wurl.com/manifest/playlist.m3u8
 People are Awesome ,https://jukin-peopleareawesome-2-ca.samsung.wurl.com/manifest/playlist.m3u8
 People are Awesome ,https://jukin-peopleareawesome-2-es.samsung.wurl.com/manifest/playlist.m3u8
@@ -1863,7 +1862,6 @@ People are Awesome (Sweden) ,https://jukin-peopleareawesome-2-se.samsung.wurl.co
 People TV (720p),https://csm-e-cetubiausw2live204-0d03c1c1e1332a1c7.csm.tubi.video/csm/live/241832244.m3u8
 People TV (1080p),https://d1qaz9zojo1ayt.cloudfront.net/playlist.m3u8
 People TV (STIRR) (1080p),https://dai.google.com/linear/hls/event/Fe9LYYCFR5Csif-I5dyMHg/master.m3u8
-
 电台-港台,#genre#
 香港电台第一台,https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/master.m3u8
 香港电台第一台,https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/index_56_a-p.m3u8
