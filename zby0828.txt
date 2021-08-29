@@ -961,7 +961,7 @@ Mono综合,rtmp://59.124.75.153:1935/sat/tv761
 纬来育乐,rtmp://161.202.204.248:1935/sat/tv701
 纬来育乐,rtmp://59.124.75.153/sat/tv701
 纬来育乐,rtmp://59.124.75.153:1935/sat/tv701
-澳门区#genre#
+澳门区,#genre#
 澳门奥视,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
 澳门葡语,http://61.244.22.5/ch2/ch2.live/chunklist_w1632175875.m3u8
 澳门卫视,http://61.244.22.4/ch3/ch3.live/chunklist_w415594313.m3u8
