@@ -1,24 +1,23 @@
-
 #EXTM3U
-#EXTINF:-1 ,====== 央视高清,#genre# ======
+#EXTINF:-1 ,央视高清
 http://0/0.m3u8
 #EXTINF:-1 ,CCTV-13新闻
-http://111.12.101.23:6610/PLTV/77777777/224/3221225742/index.m3u8?servicetype=1&IASHttpSessionId=OTT#http://111.12.101.23:6610/PLTV/77777777/224/3221225787/index.m3u8?servicetype=1&IASHttpSessionId=OTT#http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=64&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#http://117.169.120.160:8080/live/cctv-13/1.m3u8#http://183.207.248.71:80/cntv/live1/cctv-13/cctv-13#http://202.204.118.254/hls/ch29.m3u8#http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227601/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8#http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226316/1.m3u8#http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226316/1.m3u8$北京4M#http://39.134.155.143/PLTV/88888888/224/3221225597/index.m3u8#http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8#http://39.135.32.29:6610/000000001000/1000000002000021303/1.m3u8?#http://39.135.34.150:8080/000000001000/1000000002000021303/1.m3u8?xtkg#http://60.255.49.202/live/CCTV-xw.m3u8#http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225566/index.m3u8?fmt=ts2hls#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225638/index.m3u8#http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8#https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv13_2/index.m3u8#https://jwcdnqx.hebyun.com.cn/live/CCTVtest13/1500k/tzwj_video.m3u8#rtsp://183.252.176.54:554/PLTV/88888888/224/3221226104/10000100000000060000000002298296_0.smil#http://111.12.101.23:6610/PLTV/77777777/224/3221225654/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://111.12.101.23:6610/PLTV/77777777/224/3221225742/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 ,CCTV-13新闻
+http://202.204.118.254/hls/ch29.m3u8#http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227601/index.m3u8
 #EXTINF:-1 ,CCTV-1 综合
-http://111.12.101.23:6610/PLTV/77777777/224/3221225674/index.m3u8?servicetype=1&IASHttpSessionId=OTT#http://111.12.101.23:6610/PLTV/77777777/224/3221225769/index.m3u8?servicetype=1&IASHttpSessionId=OTT#http://111.12.101.23:6610/PLTV/77777777/224/3221225772/index.m3u8?servicetype=1&IASHttpSessionId=OTT#http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=29&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#http://117.156.28.119/PLTV/88888888/224/3221225691/index.m3u8#http://117.169.120.160:8080/live/cctv-1/1.m3u8#http://140.207.241.2:8080/live/program/live/cctv1hd/4000000/mnf.m3u8#http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv1/HD-8000k-1080P-cctv1#http://202.204.118.254/hls/ch1.m3u8#http://202.204.118.254/hls/ch2.m3u8#http://223.110.243.159/ott.js.chinamobile.com/PLTV/3/224/3221227725/index.m3u8#http://223.110.245.170/PLTV/3/224/3221225530/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8#http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226346/1.m3u8#http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226346/1.m3u8$北京8M#http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226431/1.m3u8#http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226431/1.m3u8$北京8M#http://39.134.155.133/PLTV/88888888/224/3221225591/index.m3u8#http://39.134.155.133/PLTV/88888888/224/3221225658/index.m3u8#http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8#http://39.135.32.29:6610/000000001000/1000000001000021973/1.m3u8?#http://39.135.34.150:8080/000000001000/1000000001000021973/1.m3u8?xtkg#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225501/index.m3u8?fmt=ts2hls#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225573/index.m3u8?fmt=ts2hls#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225618/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225630/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225642/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225762/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225918/index.m3u8#http://jwplay.hebyun.com.cn/live/cctv1/1500k/tzwj_video.m3u8#http://lives.jnnews.tv/video/s10001-CCTV-1/index.m3u8#http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctv1hd/4000000/mnf.m3u8#https://jwcdnqx.hebyun.com.cn/live/cctvtest1/1500k/tzwj_video.m3u8
+http://111.12.101.23:6610/PLTV/77777777/224/3221225654/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,CCTV-2财经
 http://111.12.101.23:6610/PLTV/77777777/224/3221225657/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,CCTV-2财经
-http://111.12.101.23:6610/PLTV/77777777/224/3221225676/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,CCTV-2财经
 http://111.63.117.13:6060/030000001000/G_CCTV-2/G_CCTV-2.m3u8
-
 #EXTINF:-1 ,CCTV-3综艺
 http://111.12.101.23:6610/PLTV/77777777/224/3221225713/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-
+#EXTINF:-1 ,CCTV-3综艺
+http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8
 #EXTINF:-1 ,CCTV-4国际
 http://111.12.101.23:6610/PLTV/77777777/224/3221225753/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-
+#EXTINF:-1 ,CCTV-4国际
 #EXTINF:-1 ,CCTV4-中文国际美洲
 http://117.148.179.160/PLTV/88888888/224/3221231654/index.m3u8
 #EXTINF:-1 ,CCTV4-中文国际欧洲
@@ -26,51 +25,66 @@ http://117.148.129.68/PLTV/88888888/224/3221231615/index.m3u8
 #EXTINF:-1 ,CCTV-5+ 体育赛事
 http://111.12.101.23:6610/PLTV/77777777/224/3221225621/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,CCTV-5+ 体育赛事
-http://111.12.101.23:6610/PLTV/77777777/224/3221225712/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-
+http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=36&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 ,CCTV-5+ 体育赛事
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225706/index.m3u8
+#EXTINF:-1 ,CCTV-5体育
+http://111.12.101.23:6610/PLTV/77777777/224/3221225516/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,CCTV-6电影
 http://111.12.101.23:6610/PLTV/77777777/224/3221225683/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-
+#EXTINF:-1 ,CCTV-6电影
+http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=87&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 ,CCTV-7国防军事
 http://111.12.101.23:6610/PLTV/77777777/224/3221225627/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-
+#EXTINF:-1 ,CCTV-7国防军事
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225499/index.m3u8?fmt=ts2hls
 #EXTINF:-1 ,CCTV-8电视剧
 http://111.12.101.23:6610/PLTV/77777777/224/3221225630/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 ,CCTV-8电视剧
+http://117.169.124.36:6610/ysten-businessmobile/live/cctv-8/1.m3u8
+#EXTINF:-1 ,CCTV09-记录频道
+http://117.169.120.160:8080/live/cctv-news/1.m3u8
+#EXTINF:-1 ,CCTV09-记录频道
+http://39.135.34.150:8080/000000001000/1000000001000014583/1.m3u8?xtkg
 #EXTINF:-1 ,CCTV-9纪录
 http://111.12.101.23:6610/PLTV/77777777/224/3221225633/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 ,CCTV-9纪录
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv9/HD-8000k-1080P-cctv9
 #EXTINF:-1 ,CCTV-10科教
 http://111.12.101.23:6610/PLTV/77777777/224/3221225624/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://cctvalih5ca.v.myalicdn.com/live/cctv10_2/index.m3u8
+#EXTINF:-1 ,CCTV-10科教
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225496/index.m3u8?fmt=ts2hls
 #EXTINF:-1 ,CCTV-11戏曲
 http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=53&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 ,CCTV-11戏曲
+http://183.207.248.71:80/cntv/live1/n-cctv-11/n-cctv-11
+#EXTINF:-1 ,CCTV-12社会与法
+http://111.12.101.23:6610/PLTV/77777777/224/3221225645/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,CCTV-12社会与法
 http://117.169.120.160:8080/live/cctv-12/1.m3u8
 #EXTINF:-1 ,CCTV-14少儿
 http://111.12.101.23:6610/PLTV/77777777/224/3221225648/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 ,CCTV-14少儿
+http://202.204.118.254/hls/ch30.m3u8
+#EXTINF:-1 ,CCTV-15音乐
 http://111.12.101.23:6610/PLTV/77777777/224/3221225830/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,CCTV-15音乐
 http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=54&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 ,CCTV-17农业农村
 http://111.12.101.23:6610/PLTV/77777777/224/3221225513/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,====== 央视,#genre# ======
-http://1/1.m3u8
+#EXTINF:-1 ,CCTV-17农业农村
+http://39.134.115.163:8080/PLTV/88888910/224/3221225907/index.m3u8
 #EXTINF:-1 ,兵器科技
 http://329s42n597.qicp.vip:65533/udp/238.1.79.56:4584
 #EXTINF:-1 ,第一剧场
 http://329s42n597.qicp.vip:65533/udp/238.1.79.63:4640
-#EXTINF:-1 ,第一剧场
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225702/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,第一剧场
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226124/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 ,电视指南
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226120/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 ,发现之旅
 http://183.207.248.71/gitv/live1/G_FAXIANZL/G_FAXIANZL
 #EXTINF:-1 ,风云剧场
 http://329s42n597.qicp.vip:65533/udp/238.1.79.62:4632
-#EXTINF:-1 ,风云剧场
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225700/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,风云剧场
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226107/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 ,风云音乐
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226083/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 ,风云足球
@@ -78,21 +92,13 @@ http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226153/1/ind
 #EXTINF:-1 ,高尔夫网球
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226114/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 ,怀旧剧场
-http://329s42n597.qicp.vip:65533/udp/238.1.79.61:4624
-#EXTINF:-1 ,怀旧剧场
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225765/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,怀旧剧场
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226097/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 ,京视剧场
 http://183.207.248.71/gitv/live1/G_JINGJU/G_JINGJU
 #EXTINF:-1 ,老故事
 http://183.207.248.71/gitv/live1/G_LAOGUSHI/G_LAOGUSHI
 #EXTINF:-1 ,女性时尚
 http://329s42n597.qicp.vip:65533/udp/238.1.79.55:4576
-#EXTINF:-1 ,女性时尚
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225699/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,女性时尚
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226104/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 ,清华大学
 http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
 #EXTINF:-1 ,生态环境
@@ -111,122 +117,20 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225513/index.m3u8?fmt=
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 #EXTINF:-1 ,中央新影老故事
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225517/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,====== 地方卫视,#genre# ======
+#EXTINF:-1 ,地方卫视 
 http://3/3.m3u8
 #EXTINF:-1 ,安多卫视
-http://183.207.248.71:80/cntv/live1/anduostv/anduostv
-#EXTINF:-1 ,安多卫视
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226195/index.m3u8
-#EXTINF:-1 ,安徽卫视
-http://111.12.101.23:6610/PLTV/77777777/224/3221225671/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,安徽卫视
-http://111.12.101.23:6610/PLTV/77777777/224/3221225701/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,安徽卫视
-http://111.20.45.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226203/1.m3u8?icpid=88888888&from=1&hms_devid=503&vqe=3
-#EXTINF:-1 ,安徽卫视
-http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5a1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=2&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 ,安徽卫视
-http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221225634/index.m3u8
-#EXTINF:-1 ,安徽卫视
-http://39.134.155.139/PLTV/88888888/224/3221225598/index.m3u8
-#EXTINF:-1 ,安徽卫视
-http://39.134.24.88/PLTV/88888888/224/3221225847/index.m3u8
-#EXTINF:-1 ,安徽卫视
-http://39.134.39.39/PLTV/88888888/224/3221226205/index.m3u8
-#EXTINF:-1 ,安徽卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225691/index.m3u8
-#EXTINF:-1 ,安徽卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225737/index.m3u8
-#EXTINF:-1 ,安徽卫视
-http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ahwshd/2300000/mnf.m3u8
-#EXTINF:-1 ,安徽卫视
-http://zbbf2.ahtv.cn/live/749.m3u8
-#EXTINF:-1 ,安徽卫视
-http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227653/index.m3u8
 #EXTINF:-1 ,北京纪实
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-beijingjishi/HD-8000k-1080P-beijingjishi
 #EXTINF:-1 ,北京卫视
 http://111.12.101.23:6610/PLTV/77777777/224/3221225651/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,北京卫视
-http://111.12.101.23:6610/PLTV/77777777/224/3221225664/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,北京卫视
-http://111.20.45.169/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225796/1.m3u8?icpid=88888888&from=1&hms_devid=523&vqe=3
-#EXTINF:-1 ,北京卫视
-http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5a1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=30&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 ,北京卫视
-http://39.135.34.150:8080/000000001000/1000000001000017156/1.m3u8?xtkg
-#EXTINF:-1 ,北京卫视
-http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=
-#EXTINF:-1 ,北京卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225600/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,北京卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225673/index.m3u8
-#EXTINF:-1 ,北京卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225674/index.m3u8
-#EXTINF:-1 ,北京卫视
-http://shbu.live.bestvcdn.com.cn:8080/live/program/live/bjwshd/2300000/mnf.m3u8
-#EXTINF:-1 ,北京卫视
-http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227652/index.m3u8
 #EXTINF:-1 ,兵团卫视
 http://183.207.248.71:80/cntv/live1/SD-4000k-576P-bingtuanstv/SD-4000k-576P-bingtuanstv
-#EXTINF:-1 ,兵团卫视
-http://test5.btzx.com.cn/live/btxjbtws.stream/playlist.m3u8
-#EXTINF:-1 ,纯享4K
-http://111.12.101.23:6610/PLTV/77777777/224/3221225726/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,东方卫视
 http://111.12.101.23:6610/PLTV/77777777/224/3221225682/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,东方卫视
-http://111.12.101.23:6610/PLTV/77777777/224/3221225718/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,东方卫视
-http://183.207.248.71:80/cntv/live1/n-dongfangstv/n-dongfangstv
-#EXTINF:-1 ,东方卫视
-http://223.110.243.142/ott.js.chinamobile.com/PLTV/3/224/3221227597/index.m3u8
-#EXTINF:-1 ,东方卫视
-http://39.130.202.114:6610/gitv_live/DFWS-HD/DFWS-HD.m3u8
-#EXTINF:-1 ,东方卫视
-http://39.134.155.137/PLTV/88888888/224/3221225651/index.m3u8
-#EXTINF:-1 ,东方卫视
-http://39.134.155.165/PLTV/88888888/224/3221225613/index.m3u8
-#EXTINF:-1 ,东方卫视
-http://39.134.24.88/PLTV/88888888/224/3221225835/index.m3u8
-#EXTINF:-1 ,东方卫视
-http://39.134.39.39/PLTV/88888888/224/3221226155/index.m3u8
-#EXTINF:-1 ,东方卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225489/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,东方卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225658/index.m3u8
-#EXTINF:-1 ,东方卫视
-http://223.110.243.152/ott.js.chinamobile.com/PLTV/3/224/3221227732/index.m3u8
-#EXTINF:-1 ,东方卫视
-http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227688/index.m3u8
-#EXTINF:-1 ,东方卫视
-http://223.110.245.146/ott.js.chinamobile.com/PLTV/3/224/3221227511/index.m3u8
-#EXTINF:-1 ,东方卫视
-http://39.134.66.66/PLTV/88888888/224/3221225672/index.m3u8
-#EXTINF:-1 ,东方卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225659/index.m3u8
 #EXTINF:-1 ,东南卫视
 http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5a1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=23&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 ,东南卫视
-http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227553/index.m3u8
-#EXTINF:-1 ,东南卫视
-http://39.134.155.187/PLTV/88888888/224/3221225519/index.m3u8
-#EXTINF:-1 ,东南卫视
-http://39.134.39.39/PLTV/88888888/224/3221226182/index.m3u8
-#EXTINF:-1 ,东南卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225585/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,东南卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225657/index.m3u8
-#EXTINF:-1 ,东南卫视
-rtsp://183.252.166.199/PLTV/88888888/224/3221226121/10000100000000060000000002358085_0.smil
-#EXTINF:-1 ,东南卫视
-http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227670/index.m3u8
-#EXTINF:-1 ,东南卫视
-http://117.169.124.37:6610/ysten-businessmobile/live/dongnanstv/yst.m3u8
-#EXTINF:-1 ,东南卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
-#EXTINF:-1 ,冬奥纪实
-http://111.12.101.23:6610/PLTV/77777777/224/3221225667/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,凤凰卫视
 http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
 #EXTINF:-1 ,凤凰香港
@@ -235,592 +139,96 @@ http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
 #EXTINF:-1 ,福建卫视
 http://39.135.32.29:6610/000000001000/1000000002000009263/1.m3u8?
-#EXTINF:-1 ,福建卫视
-http://39.135.34.150:8080/000000001000/1000000002000009263/1.m3u8?xtkg
-#EXTINF:-1 ,福建卫视
-http://58.211.84.24/liveplay-kk.rtxapp.com/live/program/live/dnwshd/4000000/mnf.m3u8
-#EXTINF:-1 ,福建卫视
-http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dnwshd/2300000/mnf.m3u8
-#EXTINF:-1 ,福建卫视
-rtsp://183.252.176.54:554/PLTV/88888888/224/3221226121/10000100000000060000000002358085_0.smil
 #EXTINF:-1 ,甘肃卫视
 http://183.207.248.71:80/cntv/live1/n-gansustv/n-gansustv
-#EXTINF:-1 ,甘肃卫视
-http://39.134.39.38/PLTV/88888888/224/3221226240/index.m3u8
-#EXTINF:-1 ,甘肃卫视
-http://39.134.39.39/PLTV/88888888/224/3221226240/index.m3u8
-#EXTINF:-1 ,甘肃卫视
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5a1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=142&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 ,广东卫视
 http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5a1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=43&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 ,广东卫视
-http://111.12.101.23:6610/PLTV/77777777/224/3221225666/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,广东卫视
-http://183.207.248.71:80/cntv/live1/n-guangdongstv/n-guangdongstv
-#EXTINF:-1 ,广东卫视
-http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227591/index.m3u8
-#EXTINF:-1 ,广东卫视
-http://223.110.245.154/ott.js.chinamobile.com/PLTV/3/224/3221227445/index.m3u8
-#EXTINF:-1 ,广东卫视
-http://39.130.202.114:6610/gitv_live/GDWS-HD/GDWS-HD.m3u8
-#EXTINF:-1 ,广东卫视
-http://39.134.155.157/PLTV/88888888/224/3221225602/index.m3u8
-#EXTINF:-1 ,广东卫视
-http://39.134.155.215/PLTV/88888888/224/3221225642/index.m3u8
-#EXTINF:-1 ,广东卫视
-http://39.134.39.39/PLTV/88888888/224/3221226180/index.m3u8
-#EXTINF:-1 ,广东卫视
-http://39.135.34.150:8080/000000001000/1000000001000028357/1.m3u8?xtkg
-#EXTINF:-1 ,广东卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225597/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,广东卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225701/index.m3u8
-#EXTINF:-1 ,广东卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225742/index.m3u8
-#EXTINF:-1 ,广东卫视
-http://shbu.live.bestvcdn.com.cn:8080/live/program/live/gdwshd/4000000/mnf.m3u8
-#EXTINF:-1 ,广东卫视
-rtsp://183.252.166.199/PLTV/88888888/224/3221226089/10000100000000060000000002296927_0.smil
-#EXTINF:-1 ,广东卫视
-http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227673/index.m3u8
-#EXTINF:-1 ,广东卫视
-http://223.110.245.160/ott.js.chinamobile.com/PLTV/3/224/3221227476/index.m3u8
-#EXTINF:-1 ,广西卫视
-http://111.12.101.23:6610/PLTV/77777777/224/3221225767/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,广西卫视
-http://183.207.248.71:80/cntv/live1/n-guangxistv/n-guangxistv
-#EXTINF:-1 ,广西卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226211/index.m3u8?fmt=ts2hls
 #EXTINF:-1 ,贵州卫视
 http://111.12.101.23:6610/PLTV/77777777/224/3221225770/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,贵州卫视
-http://183.207.248.71:80/cntv/live1/n-guizhoustv/n-guizhoustv
-#EXTINF:-1 ,贵州卫视
-http://39.134.66.66/PLTV/88888888/224/3221225576/index.m3u8
-#EXTINF:-1 ,贵州卫视
-rtsp://183.252.166.199/PLTV/88888888/224/3221226126/10000100000000060000000002434541_0.smil
-#EXTINF:-1 ,贵州卫视
-rtsp://183.252.166.199:554/PLTV/88888888/224/3221226126/10000100000000060000000002434541_0.smil
 #EXTINF:-1 ,海南卫视
 rtsp://183.252.166.199:554/PLTV/88888888/224/3221226048/10000100000000060000000002296889_0.smil
-#EXTINF:-1 ,海南卫视
-http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5a1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=114&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 ,海南卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226212/index.m3u8?fmt=ts2hls
 #EXTINF:-1 ,海峡卫视
 rtsp://183.252.166.199/PLTV/88888888/224/3221226128/10000100000000060000000002434539_0.smil
-#EXTINF:-1 ,海峡卫视
-rtsp://183.252.176.54:554/PLTV/88888888/224/3221226128/10000100000000060000000002434539_0.smil
 #EXTINF:-1 ,河北卫视
 http://183.207.248.71:80/cntv/live1/n-hebeistv/n-hebeistv
-#EXTINF:-1 ,河北卫视
-http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225840/index.m3u8
-#EXTINF:-1 ,河北卫视
-http://39.134.66.66/PLTV/88888888/224/3221225495/index.m3u8
-#EXTINF:-1 ,河北卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225610/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,河北卫视
-http://111.12.101.23:6610/PLTV/77777777/224/3221225773/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,河北卫视
-http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5a1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=45&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 ,河北卫视
-http://live2.plus.hebtv.com/hbwsx/hd/live.m3u8
-#EXTINF:-1 ,河北卫视
-https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8
 #EXTINF:-1 ,河南卫视
 http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225815/index.m3u8
-#EXTINF:-1 ,河南卫视
-http://111.12.101.23:6610/PLTV/77777777/224/3221225806/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,河南卫视
-http://183.207.248.71:80/cntv/live1/henanstv/henanstv
-#EXTINF:-1 ,河南卫视
-http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225815/index.m3u8
-#EXTINF:-1 ,河南卫视
-rtsp://183.252.166.199/PLTV/88888888/224/3221226076/10000100000000060000000002296917_0.smil
-#EXTINF:-1 ,河南卫视
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5a1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=19&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 ,黑龙江卫视
 http://111.12.101.23:6610/PLTV/77777777/224/3221225686/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,黑龙江卫视
-http://111.20.45.169/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225802/1.m3u8?icpid=88888888&from=1&hms_devid=523&vqe=3
-#EXTINF:-1 ,黑龙江卫视
-http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228827/index.m3u8
-#EXTINF:-1 ,黑龙江卫视
-http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-heilongjiangstv/HD-8000k-1080P-heilongjiangstv
-#EXTINF:-1 ,黑龙江卫视
-http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227638/index.m3u8
-#EXTINF:-1 ,黑龙江卫视
-http://223.110.245.160/ott.js.chinamobile.com/PLTV/3/224/3221227252/index.m3u8
-#EXTINF:-1 ,黑龙江卫视
-http://223.110.245.164/ott.js.chinamobile.com/PLTV/3/224/3221227323/index.m3u8
-#EXTINF:-1 ,黑龙江卫视
-http://39.130.202.114:6610/gitv_live/G_HEILONGJIANG-HD/G_HEILONGJIANG-HD.m3u8
-#EXTINF:-1 ,黑龙江卫视
-http://39.134.155.165/PLTV/88888888/224/3221225601/index.m3u8
-#EXTINF:-1 ,黑龙江卫视
-http://39.134.155.211/PLTV/88888888/224/3221225647/index.m3u8
-#EXTINF:-1 ,黑龙江卫视
-http://39.134.39.39/PLTV/88888888/224/3221226142/index.m3u8
-#EXTINF:-1 ,黑龙江卫视
-http://39.135.32.29:6610/000000001000/8467838254824392379/1.m3u8?
-#EXTINF:-1 ,黑龙江卫视
-http://58.211.84.24/liveplay-kk.rtxapp.com/live/program/live/hljwshd/2300000/mnf.m3u8
-#EXTINF:-1 ,黑龙江卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225586/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,黑龙江卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225690/index.m3u8
-#EXTINF:-1 ,黑龙江卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225736/index.m3u8
-#EXTINF:-1 ,黑龙江卫视
-http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/hdheilongjiangstv/1.m3u8
-#EXTINF:-1 ,黑龙江卫视
-http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hljwshd/4000000/mnf.m3u8
-#EXTINF:-1 ,黑龙江卫视
-rtsp://183.252.166.199/PLTV/88888888/224/3221226087/10000100000000060000000002296926_0.smil
-#EXTINF:-1 ,黑龙江卫视
-http://223.110.243.142/ott.js.chinamobile.com/PLTV/3/224/3221227662/index.m3u8
-#EXTINF:-1 ,黑龙江卫视
-http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5a1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=27&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 ,黑龙江卫视
-http://223.82.250.72/live/hdheilongjiangstv/1.m3u8
 #EXTINF:-1 ,湖北卫视
 http://111.12.101.23:6610/PLTV/77777777/224/3221225689/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,湖北卫视
-http://111.12.101.23:6610/PLTV/77777777/224/3221225721/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,湖北卫视
-http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228815/index.m3u8
-#EXTINF:-1 ,湖北卫视
-http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-hubeistv/HD-2500k-1080P-hubeistv
-#EXTINF:-1 ,湖北卫视
-http://223.110.243.167/ott.js.chinamobile.com/PLTV/3/224/3221227565/index.m3u8
-#EXTINF:-1 ,湖北卫视
-http://223.110.243.171/PLTV/3/224/3221227211/index.m3u8
-#EXTINF:-1 ,湖北卫视
-http://223.110.245.166/ott.js.chinamobile.com/PLTV/3/224/3221227377/index.m3u8
-#EXTINF:-1 ,湖北卫视
-http://39.130.202.114:6610/gitv_live/G_HUBEI-HD/G_HUBEI-HD.m3u8
-#EXTINF:-1 ,湖北卫视
-http://39.134.155.141/PLTV/88888888/224/3221225588/index.m3u8
-#EXTINF:-1 ,湖北卫视
-http://39.134.155.157/PLTV/88888888/224/3221225663/index.m3u8
-#EXTINF:-1 ,湖北卫视
-http://39.134.39.39/PLTV/88888888/224/3221226159/index.m3u8
-#EXTINF:-1 ,湖北卫视
-http://39.135.34.150:8080/000000001000/6956052407855047826/1.m3u8?xtkg
-#EXTINF:-1 ,湖北卫视
-http://58.211.84.24/liveplay-kk.rtxapp.com/live/program/live/hbwshd/2300000/mnf.m3u8
-#EXTINF:-1 ,湖北卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225699/index.m3u8
-#EXTINF:-1 ,湖北卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225740/index.m3u8
-#EXTINF:-1 ,湖北卫视
-http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hbwshd/4000000/mnf.m3u8
-#EXTINF:-1 ,湖北卫视
-rtsp://183.252.166.199/PLTV/88888888/224/3221226091/10000100000000060000000002296929_0.smil
-#EXTINF:-1 ,湖北卫视
-http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227665/index.m3u8
-#EXTINF:-1 ,湖北卫视
-http://223.110.245.154/ott.js.chinamobile.com/PLTV/3/224/3221227703/index.m3u8
-#EXTINF:-1 ,湖北卫视
-http://39.134.66.66/PLTV/88888888/224/3221225569/index.m3u8
 #EXTINF:-1 ,湖南卫视
 http://39.134.155.135/PLTV/88888888/224/3221225555/index.m3u8
-#EXTINF:-1 ,湖南卫视
-http://39.134.155.163/PLTV/88888888/224/3221225667/index.m3u8
-#EXTINF:-1 ,湖南卫视
-http://39.134.39.39/PLTV/88888888/224/3221226193/index.m3u8
-#EXTINF:-1 ,湖南卫视
-http://111.12.101.23:6610/PLTV/77777777/224/3221225692/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,湖南卫视
-http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228824/index.m3u8
-#EXTINF:-1 ,湖南卫视
-http://223.110.243.173/PLTV/3/224/3221227220/index.m3u8
-#EXTINF:-1 ,湖南卫视
-http://39.130.202.114:6610/gitv_live/HNWS-HD/HNWS-HD.m3u8
-#EXTINF:-1 ,湖南卫视
-http://39.135.34.150:8080/000000001000/1000000001000009115/1.m3u8?xtkg
-#EXTINF:-1 ,湖南卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225704/index.m3u8
-#EXTINF:-1 ,湖南卫视
-http://39.134.66.66/PLTV/88888888/224/3221225506/index.m3u8
 #EXTINF:-1 ,吉林卫视
 http://111.12.101.23:6610/PLTV/77777777/224/3221225678/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,吉林卫视
-rtsp://183.252.166.199/PLTV/88888888/224/3221226792/48616745.smil
-#EXTINF:-1 ,吉林卫视
-rtsp://183.252.176.54:554/PLTV/88888888/224/3221226792/48616745.smil
-#EXTINF:-1 ,吉林卫视
-http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5a1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=25&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 ,吉林卫视
-http://116.199.5.52:8114/00000000/index.m3u8?&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;FvSeid=5a1660af1babb4&amp;Fsv_filetype=1&amp;Fsv_ctype=LIVES&amp;Fsv_cid=0&amp;Fsv_chan_hls_se_idx=25&amp;Fsv_rate_id=0&amp;Fsv_SV_PARAM1=0&amp;Fsv_ShiftEnable=0&amp;Fsv_ShiftTsp=0&amp;Provider_id=&amp;Pcontent_id=&amp;Fsv_CMSID=&amp;Fsv_otype=1
-#EXTINF:-1 ,吉林卫视
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5a1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=25&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 ,江苏卫视
 http://111.12.101.23:6610/PLTV/77777777/224/3221225636/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,江苏卫视
-http://111.12.101.23:6610/PLTV/77777777/224/3221225722/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,江苏卫视
-http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228821/index.m3u8
-#EXTINF:-1 ,江苏卫视
-http://223.110.245.152/ott.js.chinamobile.com/PLTV/3/224/3221227561/index.m3u8
-#EXTINF:-1 ,江苏卫视
-http://39.130.202.114:6610/gitv_live/G_JIANGSU-HD/G_JIANGSU-HD.m3u8
-#EXTINF:-1 ,江苏卫视
-http://39.134.39.39/PLTV/88888888/224/3221226157/index.m3u8
-#EXTINF:-1 ,江苏卫视
-http://39.135.34.150:8080/000000001000/1000000001000004684/1.m3u8?xtkg
-#EXTINF:-1 ,江苏卫视
-http://58.211.84.24/liveplay-kk.rtxapp.com/live/program/live/jswshd/2300000/mnf.m3u8
-#EXTINF:-1 ,江苏卫视
-rtsp://183.252.176.54/PLTV/88888888/224/3221226038/10000100000000060000000002296879_0.smil
-#EXTINF:-1 ,江苏卫视
-http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227668/index.m3u8
-#EXTINF:-1 ,江苏卫视
-http://223.110.245.150/ott.js.chinamobile.com/PLTV/3/224/3221227689/index.m3u8
-#EXTINF:-1 ,江苏卫视
-http://39.134.66.66/PLTV/88888888/224/3221225503/index.m3u8
 #EXTINF:-1 ,江西卫视
 http://39.134.155.137/PLTV/88888888/224/3221225594/index.m3u8
-#EXTINF:-1 ,江西卫视
-http://39.134.39.39/PLTV/88888888/224/3221226207/index.m3u8
-#EXTINF:-1 ,江西卫视
-http://39.135.34.150:8080/000000001000/1000000001000013731/1.m3u8?xtkg
-#EXTINF:-1 ,江西卫视
-http://58.211.84.24/liveplay-kk.rtxapp.com/live/program/live/jxwshd/2300000/mnf.m3u8
-#EXTINF:-1 ,江西卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225705/index.m3u8
-#EXTINF:-1 ,江西卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225746/index.m3u8
-#EXTINF:-1 ,江西卫视
-http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227738/index.m3u8
-#EXTINF:-1 ,江西卫视
-http://111.12.101.23:6610/PLTV/77777777/224/3221225669/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,康巴卫视
 http://183.207.248.71:80/cntv/live1/SD-4000k-576P-kambatv/SD-4000k-576P-kambatv
-#EXTINF:-1 ,康巴卫视
-http://scgctvshow.sctv.com/hdlive/kangba/1.m3u8
-#EXTINF:-1 ,康巴卫视
-http://scgctvshow.sctv.com/hdlive/kangba/index.m3u8
 #EXTINF:-1 ,辽宁卫视
 http://111.12.101.23:6610/PLTV/77777777/224/3221225639/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,辽宁卫视
-http://111.12.101.23:6610/PLTV/77777777/224/3221225779/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,辽宁卫视
-http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5a1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=38&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 ,辽宁卫视
-http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227410/index.m3u8
-#EXTINF:-1 ,辽宁卫视
-http://39.134.39.39/PLTV/88888888/224/3221226209/index.m3u8
-#EXTINF:-1 ,辽宁卫视
-http://39.134.66.66/PLTV/88888888/224/3221225499/index.m3u8
-#EXTINF:-1 ,辽宁卫视
-http://39.135.32.29:6610/000000001000/1000000002000024033/1.m3u8?
-#EXTINF:-1 ,辽宁卫视
-http://39.135.34.150:8080/000000001000/1000000002000024033/1.m3u8?xtkg
-#EXTINF:-1 ,辽宁卫视
-http://58.211.84.24/liveplay-kk.rtxapp.com/live/program/live/lnwshd/2300000/mnf.m3u8
-#EXTINF:-1 ,辽宁卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225696/index.m3u8
-#EXTINF:-1 ,辽宁卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225735/index.m3u8
-#EXTINF:-1 ,辽宁卫视
-http://shbu.live.bestvcdn.com.cn:8080/live/program/live/lnwshd/4000000/mnf.m3u8
-#EXTINF:-1 ,辽宁卫视
-http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/3221227676/index.m3u8
 #EXTINF:-1 ,龙江卫视
 http://39.134.116.30:8080/PLTV/88888910/224/3221225690/index.m3u8
 #EXTINF:-1 ,旅游卫视
 rtsp://183.252.166.199/PLTV/88888888/224/3221226048/10000100000000060000000002296889_0.smil
 #EXTINF:-1 ,南方卫视
 http://111.12.101.23:6610/PLTV/77777777/224/3221225748/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,南方卫视
-http://183.207.248.71:80/cntv/live1/SD-4000k-576P-nanfangstv/SD-4000k-576P-nanfangstv
-#EXTINF:-1 ,南方卫视
-http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227005/index.m3u8
 #EXTINF:-1 ,内蒙古卫视
 http://111.12.101.23:6610/PLTV/77777777/224/3221225751/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,内蒙古卫视
-http://183.207.248.71:80/cntv/live1/n-neimenggustv/n-neimenggustv
-#EXTINF:-1 ,内蒙古卫视
-http://39.134.66.66/PLTV/88888888/224/3221225577/index.m3u8
-#EXTINF:-1 ,内蒙古卫视
-http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225836/index.m3u8
 #EXTINF:-1 ,宁夏卫视
 http://183.207.248.71:80/cntv/live1/n-ningxiastv/n-ningxiastv
-#EXTINF:-1 ,宁夏卫视
-http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225842/index.m3u8
-#EXTINF:-1 ,宁夏卫视
-http://www.nxtv.com.cn/m2o/channel/play.php?channel_id=6
-#EXTINF:-1 ,宁夏卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8
 #EXTINF:-1 ,农林卫视
 http://183.207.248.71:80/cntv/live1/SD-4000k-576P-nonglinstv/SD-4000k-576P-nonglinstv
 #EXTINF:-1 ,青海卫视
 http://111.12.101.23:6610/PLTV/77777777/224/3221225705/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,青海卫视
-http://183.207.248.71:80/cntv/live1/n-qinghaistv/n-qinghaistv
-#EXTINF:-1 ,青海卫视
-http://39.134.66.66/PLTV/88888888/224/3221225573/index.m3u8
-#EXTINF:-1 ,青海卫视
-http://live.geermurmt.com/qhws/sd/live.m3u8
-#EXTINF:-1 ,青海卫视
-http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5a1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=206&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 ,青海卫视
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5a1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=206&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 ,厦门卫视
 http://111.12.101.23:6610/PLTV/77777777/224/3221225823/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,厦门卫视
-http://183.207.248.71:80/cntv/live1/SD-4000k-576P-xiamenstv/SD-4000k-576P-xiamenstv
-#EXTINF:-1 ,山东教育卫视
-http://111.12.101.23:6610/PLTV/77777777/224/3221225708/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,山东教育卫视
-http://39.134.66.66/PLTV/88888888/224/3221225558/index.m3u8
 #EXTINF:-1 ,山东卫视
 http://111.12.101.23:6610/PLTV/77777777/224/3221225642/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,山东卫视
-http://111.12.101.23:6610/PLTV/77777777/224/3221225672/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,山东卫视
-http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228834/index.m3u8
-#EXTINF:-1 ,山东卫视
-http://223.110.243.156/ott.js.chinamobile.com/PLTV/3/224/3221227621/index.m3u8
-#EXTINF:-1 ,山东卫视
-http://223.110.245.154/ott.js.chinamobile.com/PLTV/3/224/3221227258/index.m3u8
-#EXTINF:-1 ,山东卫视
-http://39.134.155.137/PLTV/88888888/224/3221225592/index.m3u8
-#EXTINF:-1 ,山东卫视
-http://39.134.155.145/PLTV/88888888/224/3221225646/index.m3u8
-#EXTINF:-1 ,山东卫视
-http://39.134.24.88/PLTV/88888888/224/3221225841/index.m3u8
-#EXTINF:-1 ,山东卫视
-http://39.134.39.39/PLTV/88888888/224/3221226162/index.m3u8
-#EXTINF:-1 ,山东卫视
-http://39.135.34.150:8080/000000001000/1000000001000012807/1.m3u8?xtkg
-#EXTINF:-1 ,山东卫视
-http://58.211.84.24/liveplay-kk.rtxapp.com/live/program/live/sdwshd/2300000/mnf.m3u8
-#EXTINF:-1 ,山东卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225484/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,山东卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225738/index.m3u8
-#EXTINF:-1 ,山东卫视
-http://livealone302.iqilu.com/iqilu/sdtv.m3u8
-#EXTINF:-1 ,山东卫视
-http://shbu.live.bestvcdn.com.cn:8080/live/program/live/sdwshd/4000000/mnf.m3u8
-#EXTINF:-1 ,山东卫视
-http://223.110.243.157/ott.js.chinamobile.com/PLTV/3/224/3221227671/index.m3u8
 #EXTINF:-1 ,山西卫视
 http://111.12.101.23:6610/PLTV/77777777/224/3221225785/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,山西卫视
-http://183.207.248.71:80/cntv/live1/n-shanxistv/n-shanxistv
-#EXTINF:-1 ,山西卫视
-http://39.134.155.177/PLTV/88888888/224/3221225633/index.m3u8
 #EXTINF:-1 ,陕西卫视
 http://111.12.101.23:6610/PLTV/77777777/224/3221225754/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,陕西卫视
-http://183.207.248.71:80/cntv/live1/n-shanxi1stv/n-shanxi1stv
-#EXTINF:-1 ,陕西卫视
-http://39.134.155.217/PLTV/88888888/224/3221225608/index.m3u8
-#EXTINF:-1 ,陕西卫视
-http://39.134.66.66/PLTV/88888888/224/3221225567/index.m3u8
 #EXTINF:-1 ,上海卫视
 http://39.135.32.29:6610/000000001000/1000000001000030202/1.m3u8?
-#EXTINF:-1 ,上海卫视
-http://39.135.34.150:8080/000000001000/1000000001000030202/1.m3u8?xtkg
-#EXTINF:-1 ,上海卫视
-http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hddfws/4000000/mnf.m3u8
 #EXTINF:-1 ,深圳卫视
 http://111.12.101.23:6610/PLTV/77777777/224/3221225691/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,深圳卫视
-http://111.12.101.23:6610/PLTV/77777777/224/3221225725/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,深圳卫视
-http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5a1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=42&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 ,深圳卫视
-http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-shenzhenstv/HD-2500k-1080P-shenzhenstv
-#EXTINF:-1 ,深圳卫视
-http://223.110.243.141/ott.js.chinamobile.com/PLTV/3/224/3221227624/index.m3u8
-#EXTINF:-1 ,深圳卫视
-http://39.134.155.159/PLTV/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 ,深圳卫视
-http://39.134.155.191/PLTV/88888888/224/3221225640/index.m3u8
-#EXTINF:-1 ,深圳卫视
-http://39.134.24.88/PLTV/88888888/224/3221225843/index.m3u8
-#EXTINF:-1 ,深圳卫视
-http://39.134.39.39/PLTV/88888888/224/3221226199/index.m3u8
-#EXTINF:-1 ,深圳卫视
-http://39.135.34.150:8080/000000001000/1000000001000011645/1.m3u8?xtkg
-#EXTINF:-1 ,深圳卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225700/index.m3u8
-#EXTINF:-1 ,深圳卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225741/index.m3u8
-#EXTINF:-1 ,深圳卫视
-http://shbu.live.bestvcdn.com.cn:8080/live/program/live/szwshd/4000000/mnf.m3u8
-#EXTINF:-1 ,深圳卫视
-http://223.110.245.154/ott.js.chinamobile.com/PLTV/3/224/3221227677/index.m3u8
-#EXTINF:-1 ,深圳卫视
-http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227695/index.m3u8
-#EXTINF:-1 ,深圳卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225741/index.m3u8
-#EXTINF:-1 ,深圳卫视
-http://39.134.66.66/PLTV/88888888/224/3221225668/index.m3u8
 #EXTINF:-1 ,四川卫视
 http://183.207.248.71:80/cntv/live1/n-sichuanstv/n-sichuanstv
-#EXTINF:-1 ,四川卫视
-http://scgctvshow.sctv.com/scgc/sctv1deu5453w/1.m3u8
 #EXTINF:-1 ,天津卫视
 http://111.12.101.23:6610/PLTV/77777777/224/3221225675/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,天津卫视
-http://111.12.101.23:6610/PLTV/77777777/224/3221225694/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,天津卫视
-http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5a1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=37&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 ,天津卫视
-http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228818/index.m3u8
-#EXTINF:-1 ,天津卫视
-http://117.169.120.160:8080/live/hdtianjinstv/1.m3u8
-#EXTINF:-1 ,天津卫视
-http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-tianjinstv/HD-2500k-1080P-tianjinstv
-#EXTINF:-1 ,天津卫视
-http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227633/index.m3u8
-#EXTINF:-1 ,天津卫视
-http://223.110.245.140/ott.js.chinamobile.com/PLTV/3/224/3221227212/index.m3u8
-#EXTINF:-1 ,天津卫视
-http://223.110.245.154/ott.js.chinamobile.com/PLTV/3/224/3221227382/index.m3u8
-#EXTINF:-1 ,天津卫视
-http://39.134.155.135/PLTV/88888888/224/3221225649/index.m3u8
-#EXTINF:-1 ,天津卫视
-http://39.134.155.185/PLTV/88888888/224/3221225599/index.m3u8
-#EXTINF:-1 ,天津卫视
-http://39.134.39.39/PLTV/88888888/224/3221226191/index.m3u8
-#EXTINF:-1 ,天津卫视
-http://39.134.39.39/PLTV/88888888/224/3221226303/index.m3u8
-#EXTINF:-1 ,天津卫视
-http://39.134.66.66/PLTV/88888888/224/3221225665/index.m3u8
-#EXTINF:-1 ,天津卫视
-http://58.211.84.24/liveplay-kk.rtxapp.com/live/program/live/tjwshd/2300000/mnf.m3u8
-#EXTINF:-1 ,天津卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225485/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,天津卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225698/index.m3u8
-#EXTINF:-1 ,天津卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225739/index.m3u8
-#EXTINF:-1 ,天津卫视
-http://223.110.245.166/ott.js.chinamobile.com/PLTV/3/224/3221227741/index.m3u8
 #EXTINF:-1 ,西藏卫视
 http://111.12.101.23:6610/PLTV/77777777/224/3221225800/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,西藏卫视
-http://183.207.248.71:80/cntv/live1/n-xizangstv/n-xizangstv
-#EXTINF:-1 ,西藏卫视
-http://39.134.155.191/PLTV/88888888/224/3221225625/index.m3u8
-#EXTINF:-1 ,西藏卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8
 #EXTINF:-1 ,新疆兵团卫视
 http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5a1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=50&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 ,新疆卫视
 http://111.0.27.21/livehyw5.chinamcache.com/hyw/zb01.m3u8
-#EXTINF:-1 ,新疆卫视
-http://111.12.101.23:6610/PLTV/77777777/224/3221225788/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,新疆卫视
-http://183.207.248.71:80/cntv/live1/n-xjtv1/n-xjtv1
-#EXTINF:-1 ,新疆卫视
-http://39.134.66.66/PLTV/88888888/224/3221225582/index.m3u8
-#EXTINF:-1 ,新疆卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225725/index.m3u8
 #EXTINF:-1 ,延边卫视
 http://183.207.248.71:80/cntv/live1/SD-4000k-576P-yanbianstv/SD-4000k-576P-yanbianstv
 #EXTINF:-1 ,云南卫视
 http://111.12.101.23:6610/PLTV/77777777/224/3221225794/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,云南卫视
-http://183.207.248.71:80/cntv/live1/n-yntv1/n-yntv1
-#EXTINF:-1 ,云南卫视
-http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225838/index.m3u8
-#EXTINF:-1 ,云南卫视
-http://hwzbout.yunshicloud.com/8xughf/e0bx15.m3u8
-#EXTINF:-1 ,云南卫视
-https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8
 #EXTINF:-1 ,浙江卫视
 http://111.12.101.23:6610/PLTV/77777777/224/3221225695/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,浙江卫视
-http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228837/index.m3u8
-#EXTINF:-1 ,浙江卫视
-http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230035/index.m3u8
-#EXTINF:-1 ,浙江卫视
-http://39.134.155.199/PLTV/88888888/224/3221225580/index.m3u8
-#EXTINF:-1 ,浙江卫视
-http://39.134.155.215/PLTV/88888888/224/3221225644/index.m3u8
-#EXTINF:-1 ,浙江卫视
-http://39.134.24.88/PLTV/88888888/224/3221225845/index.m3u8
-#EXTINF:-1 ,浙江卫视
-http://39.134.39.39/PLTV/88888888/224/3221226144/index.m3u8
-#EXTINF:-1 ,浙江卫视
-http://39.135.34.150:8080/000000001000/1000000001000009806/1.m3u8?xtkg
-#EXTINF:-1 ,浙江卫视
-http://58.211.84.24/liveplay-kk.rtxapp.com/live/program/live/zjwshd/2300000/mnf.m3u8
-#EXTINF:-1 ,浙江卫视
-http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
-#EXTINF:-1 ,浙江卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225491/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,浙江卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225703/index.m3u8
-#EXTINF:-1 ,浙江卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225744/index.m3u8
-#EXTINF:-1 ,浙江卫视
-http://223.110.245.154/ott.js.chinamobile.com/PLTV/3/224/3221227744/index.m3u8
-#EXTINF:-1 ,浙江卫视
-http://223.110.245.154/ott.js.chinamobile.com/PLTV/3/224/3221227491/index.m3u8
-#EXTINF:-1 ,浙江卫视
-http://39.134.66.66/PLTV/88888888/224/3221225514/index.m3u8
 #EXTINF:-1 ,重庆卫视
 http://111.12.101.23:6610/PLTV/77777777/224/3221225679/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,重庆卫视
 http://111.12.101.23:6610/PLTV/77777777/224/3221225745/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,重庆卫视
-http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-chongqingstv/HD-8000k-1080P-chongqingstv
-#EXTINF:-1 ,重庆卫视
-http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227550/index.m3u8
-#EXTINF:-1 ,重庆卫视
-http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227632/index.m3u8
-#EXTINF:-1 ,重庆卫视
-http://39.134.155.149/PLTV/88888888/224/3221225632/index.m3u8
-#EXTINF:-1 ,重庆卫视
-http://39.134.155.161/PLTV/88888888/224/3221225530/index.m3u8
-#EXTINF:-1 ,重庆卫视
-http://39.135.32.29:6610/000000001000/1000000002000018937/1.m3u8?
-#EXTINF:-1 ,重庆卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225612/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,重庆卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225692/index.m3u8
-#EXTINF:-1 ,重庆卫视
-http://223.110.245.154/ott.js.chinamobile.com/PLTV/3/224/3221227729/index.m3u8
-#EXTINF:-1 ,====== CGTV,#genre# ======
+#EXTINF:-1 ,CGTV
 http://4/4.m3u8
 #EXTINF:-1 ,CGTN
 http://111.12.101.23:6610/PLTV/77777777/224/3221225707/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,CGTN
-http://live.cgtn.com/500/prog_index.m3u8
 #EXTINF:-1 ,CGTN (720p)
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:-1 ,CGTN (720p)
-https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 #EXTINF:-1 ,CGTN 1
 https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 ,CGTN
-http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=14&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 ,CGTN
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226297/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,CGTN
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225747/index.m3u8
 #EXTINF:-1 ,CGTN Documentary
 http://124.232.231.246:6610/000000001001/201500000011/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 ,CGTN Documentary
-https://livedoc.cgtn.com/500d/prog_index.m3u8
-#EXTINF:-1 ,CGTN Documentary EN
-https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:-1 ,CGTN阿拉伯语
 https://livear.cgtn.com/1000a/prog_index.m3u8
-#EXTINF:-1 ,CGTN阿拉伯语
-https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
 #EXTINF:-1 ,CGTN俄语
 https://liveru.cgtn.com/1000r/prog_index.m3u8
-#EXTINF:-1 ,CGTN法语
-https://livefr.cgtn.com/1000f/prog_index.m3u8
 #EXTINF:-1 ,CGTN法语
 https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 #EXTINF:-1 ,CGTN-环球国际
@@ -831,142 +239,42 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225645/index.m3u8
 #EXTINF:-1 ,CGTN西班牙语
 https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 ,CGTN西班牙语
-http://livees.cgtn.com/500e/prog_index.m3u8
-#EXTINF:-1 ,CGTN西班牙语
-https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 #EXTINF:-1 ,CGTN(中国)
 https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 ,CNC 英文
 http://39.134.115.163:8080/PLTV/88888910/224/3221225693/index.m3u8
-#EXTINF:-1 ,CNC 英文
-http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 #EXTINF:-1 ,CNC 中文
 http://39.134.115.163:8080/PLTV/88888910/224/3221225694/index.m3u8
-#EXTINF:-1 ,====== 凤凰,#genre# ======
+#EXTINF:-1 ,凤凰
 http://5/5.m3u8
 #EXTINF:-1 ,凤凰卫视
 http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
-#EXTINF:-1 ,凤凰卫视
-http://117.169.120.138:8080/live/fhchinese/.m3u8
-#EXTINF:-1 ,凤凰卫视
-http://117.169.120.138:8080/live/fhchinese/index.m3u8
 #EXTINF:-1 ,凤凰香港
 http://223.82.250.72/live/fhhongkong/1.m3u8
-#EXTINF:-1 ,凤凰香港
-http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
-#EXTINF:-1 ,凤凰香港
-http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
-#EXTINF:-1 ,凤凰香港
-http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P
-#EXTINF:-1 ,凤凰香港
-http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8?icpid=88888888&from=0&hms_devid=3804
-#EXTINF:-1 ,凤凰香港
-http://223.110.245.137/PLTV/3/224/3221226975/index.m3u8
 #EXTINF:-1 ,凤凰中文
 http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
-#EXTINF:-1 ,凤凰中文
-http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8$JS1080P
-#EXTINF:-1 ,凤凰中文
-http://223.110.245.136/PLTV/3/224/3221226923/index.m3u8
-#EXTINF:-1 ,凤凰中文
-http://223.82.250.72/live/fhchinese/1.m3u8
-#EXTINF:-1 ,凤凰中文
-http://zb.ios.ifeng.com:80/live/05QGDA0CIRK/index.m3u8
-#EXTINF:-1 ,凤凰中文
-http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/index.m3u8
-#EXTINF:-1 ,凤凰中文
-http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=190&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 ,凤凰中文
-http://zb.ios.ifeng.com/live/05QGDA0CIRK/index.m3u8
 #EXTINF:-1 ,凤凰资讯
 http://223.82.250.72/live/fhzixun/1.m3u8
-#EXTINF:-1 ,凤凰资讯
-http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
-#EXTINF:-1 ,凤凰资讯
-http://zb.ios.ifeng.com/live/05QGCOB3T34/index.m3u8
-#EXTINF:-1 ,凤凰资讯
-http://117.169.120.160:8080/live/fhzixun/1.m3u8
-#EXTINF:-1 ,凤凰资讯
-http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
-#EXTINF:-1 ,凤凰资讯
-http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
-#EXTINF:-1 ,凤凰资讯
-http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8$JS1080P
-#EXTINF:-1 ,凤凰资讯
-http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8?time=1615209027505
-#EXTINF:-1 ,凤凰资讯
-http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8?time=1615209063576
-#EXTINF:-1 ,凤凰资讯
-http://zb.ios.ifeng.com:80/live/05QGCOB3T34/index.m3u8
-#EXTINF:-1 ,凤凰资讯
-http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/index.m3u8
-#EXTINF:-1 ,凤凰资讯
-http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
-#EXTINF:-1 ,凤凰资讯
-https://d158f3mdhc5kf4.cloudfront.net/p1_cbr_lo_720p.m3u8
-#EXTINF:-1 ,凤凰资讯
-http://117.169.120.138:8080/live/fhzixun/.m3u8
-#EXTINF:-1 ,凤凰资讯
-http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
-#EXTINF:-1 ,====== 香港区,#genre# ======
-http://6/6.m3u8
 #EXTINF:-1 ,TVB 翡翠台
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1TVB 翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 ,TVB 翡翠台
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1&lv=1&c=0&s=4&v=100&wh=16:9&p=1
 #EXTINF:-1 ,翡翠台
 http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=188&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
-#EXTINF:-1 ,翡翠台
-http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 ,翡翠台
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 ,翡翠台
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 ,翡翠台
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 ,翡翠台
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1&lv=1&c=0&s=4&v=100&wh=16:9&p=1翡翠台
-#EXTINF:-1 ,翡翠台
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188
-#EXTINF:-1 ,翡翠台
-http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
 #EXTINF:-1 ,明珠台
 http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=12&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
-#EXTINF:-1 ,明珠台
-http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 ,明珠台
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 ,明珠台
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 ,明珠台
-http://116.199.5.52:8114/00000000/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1 ,明珠台
-http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
-#EXTINF:-1 ,明珠台
-http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 ,TVB星河
 http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
-#EXTINF:-1 ,TVB星河
-http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 #EXTINF:-1 ,翡翠华丽台
 http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
 #EXTINF:-1 ,无线财经
 http://cdn.hkdtmb.com/hls/85/index.m3u8
-#EXTINF:-1 ,无线财经
-http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
 #EXTINF:-1 ,无线明珠
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 ,无线新闻
 http://cdn.hkdtmb.com/hls/83/index.m3u8
-#EXTINF:-1 ,无线新闻
-http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
 #EXTINF:-1 ,港台32
 https://cdn.hkdtmb.com/hls/32/index.m3u8
 #EXTINF:-1 ,港台電視33
 http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
-#EXTINF:-1 ,港台電視33
-https://cdn.hkdtmb.com/hls/33/index.m3u8
 #EXTINF:-1 ,香港C+蓝光
 http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
 #EXTINF:-1 ,香港国际财经
@@ -975,8 +283,6 @@ https://cdn.hkdtmb.com/hls/76/index.m3u8
 https://cdn.hkdtmb.com/hls/77/index.m3u8
 #EXTINF:-1 ,香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-#EXTINF:-1 ,香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 ,有线18台
 rtmp://161.202.204.248:1935/sat/hk041
 #EXTINF:-1 ,有线线8台
@@ -985,24 +291,8 @@ rtmp://161.202.204.248:1935/sat/hk042
 http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-CN/03.m3u8
 #EXTINF:-1 ,耀才财经
 http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
-#EXTINF:-1 ,耀才财经
-http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:-1 ,耀才财经
-http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
 #EXTINF:-1 ,星空卫视
 http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=233&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-#EXTINF:-1 ,星空卫视
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 ,星空卫视
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 ,星空卫视
-http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 ,星空卫视
-http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=234&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 ,星空卫视
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 ,星空卫视
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=233
 #EXTINF:-1 ,亚洲美食
 http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 #EXTINF:-1 ,亚旅卫视
@@ -1011,90 +301,36 @@ https://jc-qlive-play.jingchangkan.cn/live/3473_200508855_xR9m.m3u8
 https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 #EXTINF:-1 ,亚美卫视
 http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
-#EXTINF:-1 ,====== 台湾区,#genre# ======
+#EXTINF:-1 ,台湾区
 http://7/7.m3u8
 #EXTINF:-1 ,华视
 rtmp://161.202.204.248/sat/tv112
-#EXTINF:-1 ,华视
-rtmp://161.202.204.248:1935/sat/tv111
-#EXTINF:-1 ,华视
-rtmp://59.124.75.153/sat/tv111
-#EXTINF:-1 ,华视
-rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d46?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 #EXTINF:-1 ,民视
 rtmp://161.202.204.248/sat/tv052
-#EXTINF:-1 ,民视
-rtmp://161.202.204.248:1935/sat/tv051
-#EXTINF:-1 ,民视
-rtmp://59.124.75.153/sat/tv051
 #EXTINF:-1 ,中视
 rtmp://161.202.204.248/sat/tv091
-#EXTINF:-1 ,中视
-rtmp://161.202.204.248:1935/sat/tv091
-#EXTINF:-1 ,中视
-rtmp://161.202.204.248:1935/sat/tv091
-#EXTINF:-1 ,中视
-rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910d58?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
-#EXTINF:-1 ,中视
-rtmp://59.124.75.153/sat/tv091
 #EXTINF:-1 ,台视
 rtmp://161.202.204.248/sat/tv071
-#EXTINF:-1 ,台视
-rtmp://161.202.204.248:1935/sat/tv071
-#EXTINF:-1 ,台视
-rtmp://59.124.75.153/sat/tv071
 #EXTINF:-1 ,TVBS欢乐
 rtmp://161.202.204.248/sat/tv422
-#EXTINF:-1 ,TVBS欢乐
-rtmp://161.202.204.248/sat/tv421
-#EXTINF:-1 ,TVBS欢乐
-rtmp://161.202.204.248:1935/sat/tv421
-#EXTINF:-1 ,TVBS欢乐
-rtmp://59.124.75.153/sat/tv421
-#EXTINF:-1 ,TVBS欢乐
-rtmp://59.124.75.153:1935/sat/tv421
 #EXTINF:-1 ,TVBS新闻
 rtmp://161.202.204.248/sat/tv551
-#EXTINF:-1 ,TVBS新闻
-rtmp://161.202.204.248/sat/tv552
-#EXTINF:-1 ,TVBS新闻
-rtmp://161.202.204.248:1935/sat/tv551
-#EXTINF:-1 ,TVBS新闻
-rtmp://59.124.75.153/sat/tv551
-#EXTINF:-1 ,TVBS新闻
-rtmp://59.124.75.153:1935/sat/tv551
 #EXTINF:-1 ,年代新闻
 http://107.167.5.66:80/mylive/102/2050/index.m3u8
 #EXTINF:-1 ,三立台湾台
 https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 ,东森财经新闻
 rtmp://161.202.204.248:1935/sat/tv571
-#EXTINF:-1 ,东森财经新闻
-rtmp://59.124.75.153:1935/sat/tv571
 #EXTINF:-1 ,东森超视
 rtmp://161.202.204.248/sat/tv771
-#EXTINF:-1 ,东森超视
-rtmp://161.202.204.248/sat/tv772
-#EXTINF:-1 ,东森超视
-rtmp://161.202.204.248:1935/sat/tv771
-#EXTINF:-1 ,东森超视
-rtmp://59.124.75.153/sat/tv771
-#EXTINF:-1 ,东森超视
-rtmp://59.124.75.153:1935/sat/tv771
 #EXTINF:-1 ,东森幼幼台
 http://60.251.59.179:8506/xoxo.m3u8
-#EXTINF:-1 ,东森超视
-rtmp://161.202.204.248/sat/tv771
 #EXTINF:-1 ,大爱1台
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 ,大爱2台
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1 ,原住民電視
 http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
-#EXTINF:-1 ,原住民频道
-http://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b4000.m3u8?cuac=guest&cref=http%3A%2F%2Ftitv.ipcf.org.tw%2F
-#EXTINF:-1 ,天映频道
-http://50.7.161.82:8277/streams/d/celestial_pye/playlist.m3u8
 #EXTINF:-1 ,天映频道
 http://50.7.161.82:8277/streams/d/celestial_pye/playlist.m3u8
 #EXTINF:-1 ,唯心電視
@@ -1113,90 +349,30 @@ http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-
 https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 #EXTINF:-1 ,Mono综合
 rtmp://161.202.204.248/sat/tv761
-#EXTINF:-1 ,Mono综合
-rtmp://161.202.204.248:1935/sat/tv761
-#EXTINF:-1 ,Mono综合
-rtmp://59.124.75.153/sat/tv761
-#EXTINF:-1 ,Mono综合
-rtmp://59.124.75.153:1935/sat/tv761
 #EXTINF:-1 ,爱尔达1
 rtmp://161.202.204.248/sat/md011
-#EXTINF:-1 ,爱尔达1
-rtmp://161.202.204.248:1935/sat/tv731
-#EXTINF:-1 ,爱尔达1
-rtmp://59.124.75.153/sat/md051
 #EXTINF:-1 ,爱尔达2
 rtmp://161.202.204.248/sat/md021
-#EXTINF:-1 ,爱尔达2
-rtmp://161.202.204.248:1935/sat/md021
-#EXTINF:-1 ,爱尔达2
-rtmp://161.202.204.248:1935/sat/md031
-#EXTINF:-1 ,爱尔达2
-rtmp://161.202.204.248:1935/sat/tv741
-#EXTINF:-1 ,爱尔达2
-rtmp://59.124.75.153/sat/md011
-#EXTINF:-1 ,爱尔达2
-rtmp://59.124.75.153/sat/md021
-#EXTINF:-1 ,爱尔达2
-rtmp://59.124.75.153:1935/sat/md031
 #EXTINF:-1 ,爱尔达-综合台
 http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
 #EXTINF:-1 ,博斯魅力1
 rtmp://161.202.204.248/sat/md042
-#EXTINF:-1 ,博斯魅力1
-rtmp://161.202.204.248:1935/sat/md041
-#EXTINF:-1 ,博斯魅力1
-rtmp://59.124.75.153:1935/sat/md041
 #EXTINF:-1 ,博斯魅力2
 rtmp://161.202.204.248:1935/sat/md051
-#EXTINF:-1 ,博斯魅力2
-rtmp://161.202.204.248/sat/md051
 #EXTINF:-1 ,纬来日本
 rtmp://59.124.75.153:1935/sat/tv521
-#EXTINF:-1 ,纬来日本
-rtmp://161.202.204.248/sat/tv522
-#EXTINF:-1 ,纬来日本
-rtmp://161.202.204.248:1935/sat/tv521
-#EXTINF:-1 ,纬来日本
-rtmp://59.124.75.153/sat/tv522
 #EXTINF:-1 ,纬来体育
 rtmp://161.202.204.248/sat/tv721
-#EXTINF:-1 ,纬来体育
-rtmp://161.202.204.248:1935/sat/tv721
-#EXTINF:-1 ,纬来体育
-rtmp://59.124.75.153/sat/tv721
-#EXTINF:-1 ,纬来体育
-rtmp://59.124.75.153:1935/sat/tv721
-#EXTINF:-1 ,纬来育乐
-rtmp://161.202.204.248/sat/tv701
 #EXTINF:-1 ,纬来育乐
 rtmp://161.202.204.248/sat/tv702
-#EXTINF:-1 ,纬来育乐
-rtmp://161.202.204.248:1935/sat/tv701
-#EXTINF:-1 ,纬来育乐
-rtmp://59.124.75.153/sat/tv701
-#EXTINF:-1 ,纬来育乐
-rtmp://59.124.75.153:1935/sat/tv701
-#EXTINF:-1 ,====== 澳门区#genre# ======
+#EXTINF:-1 ,澳门区
 http://8/8.m3u8
 #EXTINF:-1 ,澳门卫视
 http://61.244.22.4/ch3/ch3.live/playelist.m3u8
-#EXTINF:-1 ,澳门卫视
-http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
-#EXTINF:-1 ,澳门卫视
-http://61.244.22.4/ch3/ch3.live/chunklist_w415594313.m3u8
-#EXTINF:-1 ,澳门卫视
-http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
 #EXTINF:-1 ,澳视澳门
 http://61.244.22.4/ch1/ch1.live/index.m3u8
-#EXTINF:-1 ,澳视澳门
-http://61.244.22.4/ch1/ch1.live/playelist.m3u8
-#EXTINF:-1 ,澳视澳门
-http://61.244.22.5/ch1/_definst_/ch1.live/playlist.m3u8
 #EXTINF:-1 ,澳视葡文
 http://61.244.22.4/ch2/ch2.live/chunklist_w1632175875.m3u8
-#EXTINF:-1 ,澳视葡文
-http://61.244.22.4/ch2/ch2.live/index.m3u8
 #EXTINF:-1 ,澳视综艺
 http://61.244.22.5/ch6/_definst_/hd_ch6.live/playlist.m3u8
 #EXTINF:-1 ,澳亚卫视
@@ -1205,14 +381,10 @@ http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid
 http://61.244.22.5/ch1/ch1.live/playelist.m3u8
 #EXTINF:-1 ,澳门资讯
 http://61.244.22.5/ch5/_definst_/info_ch5.live/playlist.m3u8
-#EXTINF:-1 ,澳门资讯
-http://61.244.22.5/ch5/info_ch5.live/master.m3u8
-#EXTINF:-1 ,====== 新马区,#genre# ======
+#EXTINF:-1 ,新马区 
 http://9/9.m3u8
 #EXTINF:-1 ,8TV
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
-#EXTINF:-1 ,8TV
-http://50.7.161.82:8278/streams/d/tv8_pye/playlist.m3u8
 #EXTINF:-1 ,Bernama TV
 http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 #EXTINF:-1 ,Boo
@@ -1237,12 +409,6 @@ http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 ,CNA
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 ,CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_2.m3u8
-#EXTINF:-1 ,CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 ,CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 ,Astro Awani
 http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 #EXTINF:-1 ,Astro Ceria
@@ -1259,13 +425,7 @@ http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
 #EXTINF:-1 ,Astro-港剧台
 http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8
-#EXTINF:-1 ,Astro-港剧台
-https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 ,Astro-港剧台
-https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
-#EXTINF:-1 ,Astro-港剧台
-https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 ,====== 泰国,#genre# ======
+#EXTINF:-1 ,泰国
 http://10/10.m3u8
 #EXTINF:-1 ,ASTV News 1 (1080p)
 http://news1.live14.com/stream/news1_hi.m3u8
@@ -1299,20 +459,12 @@ https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
 #EXTINF:-1 ,True Tennis HD
 https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
-#EXTINF:-1 ,====== 韩国,#genre# ======
+#EXTINF:-1 ,韩国
 http://11/11.m3u8
 #EXTINF:-1 ,Arirang TV
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 #EXTINF:-1 ,Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 ,Arirang
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
-#EXTINF:-1 ,Arirang
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 ,Arirang
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-#EXTINF:-1 ,Arirang
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 ,BBS Buddhist Broadcasting
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
 #EXTINF:-1 ,CGNTV
@@ -1335,8 +487,6 @@ http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
 http://221.157.125.239:1935/live/psike/playlist.m3u8
 #EXTINF:-1 ,TBS
 http://tbs.hscdn.com/tbstvweb/tbstv/chunklist_w1331473189.m3u8
-#EXTINF:-1 ,TBS
-https://tbs.hscdn.com/tbstvweb/tbstv/playlist.m3u8
 #EXTINF:-1 ,TJB(SBS 大田)
 http://1.245.74.5:1935/live/tv/.m3u8
 #EXTINF:-1 ,TVWorkNet
@@ -1361,7 +511,7 @@ http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
 http://50.7.161.82:8277/streams/d/ohk_pye/playlist.m3u8
 #EXTINF:-1 ,OHK
 http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
-#EXTINF:-1 ,====== 日本,#genre# ======
+#EXTINF:-1 ,日本
 http://12/12.m3u8
 #EXTINF:-1 ,NHK Chinese Vision
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
@@ -1399,8 +549,6 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 https://ntv1.mov3.co/hls/ntv.m3u8
 #EXTINF:-1 ,Nippon TV News 24
 https://n24-cdn-live.ntv.co.jp/ch01/high.m3u8
-#EXTINF:-1 ,Nippon TV News 24
-https://www.news24.jp/livestream/index.m3u8
 #EXTINF:-1 ,Shop Channel
 https://stream3.shopch.jp/HLS/master.m3u8
 #EXTINF:-1 ,TBS
@@ -1411,7 +559,7 @@ http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
 #EXTINF:-1 ,日本购物3
 http://stream1.shopch.jp/HLS/out3/prog_index.m3u8
-#EXTINF:-1 ,日本购物
+#EXTINF:-1 ,日本购物4
 https://stream3.shopch.jp/HLS/master.m3u8
 #EXTINF:-1 ,TBS
 https://tbs.mov3.co/hls/tbs.m3u8
@@ -1427,25 +575,25 @@ https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8
 https://gorilla.gaki-no-tsukai.eu/hls/test.m3u8
 #EXTINF:-1 ,Gunma TV
 https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
-#EXTINF:-1 ,====== 地理&探索,#genre# ======
+#EXTINF:-1 ,地理&探索 
 http://13/13.m3u8
-#EXTINF:-1 ,Disc 亚洲
+#EXTINF:-1 ,探索 亚洲
 https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
-#EXTINF:-1 ,Disc World
+#EXTINF:-1 ,探索 World
 http://178.175.132.170:8888/02_DiscoveryHDWorld/chunklist.m3u8
-#EXTINF:-1 ,Disc World HD
+#EXTINF:-1 ,探索 World HD
 http://l3d.us:8080/MENDOZAEEUU12/mJp8eMqJB9/10415
-#EXTINF:-1 ,Disc CHANNEL
+#EXTINF:-1 探索 CHANNEL
 http://31.220.41.88:8081/live/us-discovery.stream/playlist.m3u8
-#EXTINF:-1 ,Disc HD
+#EXTINF:-1 探索 HD
 http://hbox.cdnss.me:80/live/bestcs/bestcs/1249.m3u8
-#EXTINF:-1 ,Disc Science HD
+#EXTINF:-1 ,探索 Science HD
 http://hbox.cdnss.me:80/live/bestcs/bestcs/1245.m3u8
-#EXTINF:-1 ,Disc SCIENCE
+#EXTINF:-1 ,探索 SCIENCE
 http://l3d.us:8080/MENDOZAEEUU12/mJp8eMqJB9/10412
-#EXTINF:-1 ,Disc TURBO HD
+#EXTINF:-1 ,探索 TURBO HD
 http://l3d.us:8080/MENDOZAEEUU12/mJp8eMqJB9/148707
-#EXTINF:-1 ,Disc THEATER HD
+#EXTINF:-1 ,探索 THEATER HD
 http://l3d.us:8080/MENDOZAEEUU12/mJp8eMqJB9/148706
 #EXTINF:-1 ,Planete+ HD
 http://hbox.cdnss.me:80/live/bestcs/bestcs/2044.m3u8
@@ -1455,23 +603,21 @@ http://hbox.cdnss.me:80/live/bestcs/bestcs/551.m3u8
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF:-1 ,Animal Planet
 http://31.220.41.88:8081/live/us-animal.stream/playlist.m3u8?token=null
-#EXTINF:-1 ,geo
+#EXTINF:-1 ,地理
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 ,geo Abu Dhabi
+#EXTINF:-1 ,地理 Abu Dhabi
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
-#EXTINF:-1 ,geo2
+#EXTINF:-1 ,地理2
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/playlist.m3u8
-#EXTINF:-1 ,geo WILD Russia
+#EXTINF:-1 ,地理 WILD Russia
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
-#EXTINF:-1 ,geo WILD Asia
+#EXTINF:-1 ,地理 WILD Asia
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
-#EXTINF:-1 ,geo WILD
+#EXTINF:-1 ,地理 WILD
 https://cdn1.mobiletv.bg/T5/ng_wild_hd/ng_wild_hd_794613_850k.m3u8
-#EXTINF:-1 ,geo HD
-http://hbox.cdnss.me:80/live/bestcs/bestcs/1232.m3u8
-#EXTINF:-1 ,geo Wild HD
+#EXTINF:-1 ,地理 Wild HD
 http://hbox.cdnss.me:80/live/bestcs/bestcs/1239.m3u8
-#EXTINF:-1 ,geo HD
+#EXTINF:-1 ,地理 HD
 http://hbox.cdnss.me:80/live/bestcs/bestcs/1232.m3u8
 #EXTINF:-1 ,Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
@@ -1499,8 +645,6 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/
 https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
 #EXTINF:-1 ,NASA TV Public
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1 ,NASA TV Public
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 ,NASA TV Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1 ,NATURE TV1
@@ -1513,7 +657,7 @@ http://hbox.cdnss.me:80/live/bestcs/bestcs/636.m3u8
 http://hbox.cdnss.me:80/live/bestcs/bestcs/3403.m3u8
 #EXTINF:-1 ,Local Now Discover
 https://linear-145.frequency.stream/dist/localnow/145/hls/master/playlist.m3u8
-#EXTINF:-1 ,====== 少儿频道,#genre# ======
+#EXTINF:-1 ,少儿频道 
 http://14/14.m3u8
 #EXTINF:-1 ,CCTV新科动漫
 http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2_hd.m3u8
@@ -1527,44 +671,20 @@ https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c192
 rtsp://183.252.166.199/PLTV/88888888/224/3221226120/10000100000000060000000002358082_0.smil
 #EXTINF:-1 ,黑莓动画
 http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8
-#EXTINF:-1 ,黑莓动画
-http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.m3u8
-#EXTINF:-1 ,黑莓动画
-http://39.134.115.163:8080/PLTV/88888910/224/3221225672/index.m3u8
 #EXTINF:-1 ,嘉佳卡通
 http://183.207.248.71:80/cntv/live1/SD-4000k-576P-jiajiakaton/SD-4000k-576P-jiajiakaton
 #EXTINF:-1 ,金鹰卡通
 http://223.82.250.72/live/jinyingkaton/1.m3u8
-#EXTINF:-1 ,金鹰卡通
-http://39.134.66.66/PLTV/88888888/224/3221225561/index.m3u8
-#EXTINF:-1 ,金鹰卡通
-http://39.134.115.163:8080/PLTV/88888910/224/3221225721/index.m3u8
-#EXTINF:-1 ,金鹰卡通
-http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/jinyingkaton/1.m3u8
-#EXTINF:-1 ,金鹰卡通
-http://183.207.248.71:80/cntv/live1/n-jinyingkaton/n-jinyingkaton
 #EXTINF:-1 ,卡酷少儿
 http://39.134.66.66/PLTV/88888888/224/3221225562/index.m3u8
-#EXTINF:-1 ,卡酷少儿
-http://223.110.228.17/ott.js.chinamobile.com/PLTV/3/224/3221227566/index.m3u8
-#EXTINF:-1 ,卡酷少儿
-http://39.134.115.163:8080/PLTV/88888910/224/3221225677/index.m3u8
-#EXTINF:-1 ,卡酷少儿
-http://183.207.248.71:80/cntv/live1/n-kakukaton/n-kakukaton
 #EXTINF:-1 ,南京少儿
 http://ls.qingting.fm/live/3701149.m3u8
 #EXTINF:-1 ,山西少儿
 http://live2.sxrtv.com/flvss?bitrate=800000&channel=Shan1XiChild
 #EXTINF:-1 ,上海哈哈炫动
 http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/xuandongkaton/1.m3u8
-#EXTINF:-1 ,上海哈哈炫动
-http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221226388/index.m3u8
-#EXTINF:-1 ,上海哈哈炫动
-http://223.110.228.17/ott.js.chinamobile.com/PLTV/3/224/3221227586/index.m3u8
 #EXTINF:-1 ,狮子王国
 https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
-#EXTINF:-1 ,嘉佳卡通
-http://111.12.101.23:6610/PLTV/77777777/224/3221225797/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,卡酷少儿
 http://111.12.101.23:6610/PLTV/77777777/224/3221225730/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,哈哈炫动
@@ -1575,9 +695,7 @@ http://111.12.101.23:6610/PLTV/77777777/224/3221225710/index.m3u8?servicetype=1&
 http://183.207.255.190/live/program/live/hhxdhd/4000000/mnf.m3u8
 #EXTINF:-1 ,动漫秀场
 http://183.207.255.190/live/program/live/dmxchd/4000000/mnf.m3u8
-#EXTINF:-1 ,动漫秀场
-http://39.134.39.38/PLTV/88888888/224/3221226197/index.m3u8
-#EXTINF:-1 ,茶啊二中_虎牙
+#EXTINF:-1 ,茶啊二中
 http://txdirect.flv.huya.com/huyalive/28596569-28596569-122821328632807424-2633424538-10057-A-0-1.flv?wsSecret=165bd67af60009b2bb4bb39f35062005&wsTime=610fc9ca&uid=0&seqid=16283382322856384&ctype=tars_mobile&ver=1&t=103
 #EXTINF:-1 ,大头儿子01
 https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/252a7fe7786645b084271751a3f75725/1200.m3u8
@@ -1597,8 +715,6 @@ http://bd.hls.huya.com/src/2293333915-2293333915-9849794163732643840-4586791286-
 http://bd.hls.huya.com/src/146501201-146501201-629217867119722496-293125858-10057-A-0-1.m3u8?wsSecret=ec2fc0c3e1749c1ed9b844289cca20af&wsTime=611e28a7&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Afz6%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*
 #EXTINF:-1 ,蜡笔小新
 http://tx.hls.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1-imgplus.m3u8?wsSecret=622171e13ac4125efc1db7bf09edddb2&wsTime=611e29c4&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Ad2%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*
-#EXTINF:-1 ,蜡笔小新
-http://tx.flv.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1-imgplus.flv?wsSecret=7a3400e2d7de3eab9b9be22ce59598e6&wsTime=610fc9cf&uid=0&seqid=16283382440129554&ctype=tars_mobile&ver=1&t=103
 #EXTINF:-1 ,倒霉特熊
 https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
 #EXTINF:-1 ,云朵妈妈
@@ -1613,21 +729,17 @@ https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ae265653fe149069c
 https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
 #EXTINF:-1 ,猪侠英雄
 https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0f03b08bc7b042358144617000fd2931/1200.m3u8
-#EXTINF:-1 ,====== 电影,#genre# ======
+#EXTINF:-1 ,电影
 http://15/15.m3u8
 #EXTINF:-1 ,漫威DC
 http://3954-out.liveplay.myqcloud.com/live/3954_616645877.flv?bizid=3954&txSecret=de89be9b2bb7deb018b4a7f1491cac3b&txTime=612a2149
-#EXTINF:-1 ,漫威DC
-http://3954-out.liveplay.myqcloud.com/live/3954_616645877.flv?bizid=3954&txSecret=33abbfbc6d9f10f475496bf611f8902a&txTime=6117e8b8
 #EXTINF:-1 ,漫威十周年系列
 http://3954-out.liveplay.myqcloud.com/live/3954_360126181.flv?bizid=3954&txSecret=61605585d05f9c279f352f67176511ae&txTime=612aa336
-#EXTINF:-1 ,漫威十周年系列
-http://3954-out.liveplay.myqcloud.com/live/3954_360126181.flv?bizid=3954&txSecret=32c7ecb532e72974bc576735eaa330c9&txTime=611931c4
 #EXTINF:-1 ,邵氏电影
 http://cn-sdjn2-cu-live-01.bilivideo.com/live-bvc/501160/live_97065163_17925468_1500.m3u8
-#EXTINF:-1 ,邵氏经典影院(代理)1
+#EXTINF:-1 ,邵氏经典影院(代理)
 http://epg.112114.xyz//4246519
-#EXTINF:-1 ,邵氏老电影(代理)1
+#EXTINF:-1 ,邵氏老电影(代理)
 http://106.53.212.251/daili/.php?id=21759196
 #EXTINF:-1 ,五福星系列
 http://bd.hls.huya.com/src/1356780980-1356780980-5827329936934830080-2713685416-10057-A-0-1.m3u8?wsSecret=b47b2c071eb4a477e3bda3970db3e2ec&wsTime=611e280a&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Acp1%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*
@@ -1641,8 +753,6 @@ http://121.51.94.19/tx.hls.huya.com/src/1099531752755-1099531752755-864361266376
 http://103.140.229.13/BOBO/bibi.php?id=3568283
 #EXTINF:-1 ,金庸的武侠世界1
 http://121.51.94.19/tx.hls.huya.com/src/1394575562-1394575562-5989656430590820352-2789274580-10057-A-0-1.m3u8
-#EXTINF:-1 ,金庸的武侠世界2
-http://48tv.cn/jx/huya.php?id=11342435&type=.m3u8
 #EXTINF:-1 ,经典港片
 http://111.31.3.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c51_lb_110_600_t10/c51_lb_110_600_t10.m3u8
 #EXTINF:-1 ,惊悚午夜
@@ -1659,12 +769,8 @@ http://111.12.101.23:6610/PLTV/77777777/224/3221225703/index.m3u8?servicetype=1&
 http://39.134.39.39/270000001322/69900158041111100000002188/index.m3u8
 #EXTINF:-1 ,贺岁档
 http://121.51.94.19/tx.hls.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1-imgplus.m3u8
-#EXTINF:-1 ,贺岁档
-http://48tv.cn/jx/huya.php?id=11601986&type=.m3u8
 #EXTINF:-1 ,金马影院
 https://pull.kktv8.com/livekktv/128600025.flv?_t=0.03302458679376152
-#EXTINF:-1 ,金马影院
-https://pull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 ,科幻
 http://3954-out.liveplay.myqcloud.com/live/3954_382971876.flv?bizid=3954&txSecret=def04a8835b7428c6b10ad8b40286a41&txTime=6119d42b
 #EXTINF:-1 ,爆笑大片
@@ -1685,8 +791,6 @@ http://3954-out.liveplay.myqcloud.com/live/3954_363783415.flv?bizid=3954&txSecre
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 ,黑莓电影
 http://39.134.115.163:8080/PLTV/88888910/224/3221225718/index.m3u8
-#EXTINF:-1 ,黑莓电影
-http://223.110.228.14/ott.js.chinamobile.com/PLTV/3/224/3221227520/index.m3u8
 #EXTINF:-1 ,科幻
 http://3954-out.liveplay.myqcloud.com/live/3954_382971876.flv?bizid=3954&txSecret=20d345d5848c0002c090b9beb412ebd0&txTime=61292095
 #EXTINF:-1 ,科幻片
@@ -1703,7 +807,7 @@ http://dl.zhoujie218.top/dl/gdtv2.php?migu/625542365
 http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=71&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 ,CHC动作电影
 http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=119&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 ,====== 电视剧,#genre# ======
+#EXTINF:-1 ,电视剧
 http://16/16.m3u8
 #EXTINF:-1 ,武侠剧场
 http://39.134.39.39/270000001322/69900158041111100000002190/index.m3u8
@@ -1731,7 +835,7 @@ http://blanki.cf/api/.php?id=762079
 http://121.51.94.19/tx.hls.huya.com/src/1449588790-1449588790-6225936445698211840-2847699106-10057-A-0-1.m3u8
 #EXTINF:-1 ,相声小品
 http://39.134.39.37/PLTV/88888888/224/3221226260/index.m3u8
-#EXTINF:-1 ,====== 明星专场,#genre# ======
+#EXTINF:-1 ,明星专场
 http://17/17.m3u8
 #EXTINF:-1 ,吴京
 http://121.51.249.53/tx.hls.huya.com/src/1524434090-1524434090-6547394561457520640-3048991636-10057-A-0-1.m3u8
@@ -1805,7 +909,7 @@ https://api.xiongmiao888.cn/m3u8/1628248096979.m3u8
 https://4kyasvip-oss-alivideo.4kya.com/s/Vx0aKtB/%E8%93%9D%E5%85%89%E7%94%B5%E5%BD%B1/%E6%97%A5%E6%9C%AC%E7%94%B5%E5%BD%B1/%E5%93%86LA%E6%A2%A6%E4%BC%B4W%E5%90%8C%E8%A1%8C2.mp4
 #EXTINF:-1 ,浪客剑心最终章追忆篇
 https://sf1-ttcdn-tos.pstatp.com/obj/tos-cn-v-0004/6fdaf4e7056a46f791fff18dd50f65a4?x-security-token=MTYyNzk3NjM4MTUwM2UyMmVmZDUzLTM4NjgtNDFiMC04NjcxLTU5Nzk5YjVjMzVmMzE2Mjc5NzYzODE1MDM2NDFmM2RkYy1mN2RjLTQwNWQtOTQyYi05NTMwNzEyMGI0MjY%3d&response-content-disposition=attachment%3Bfilename%2A%3Dutf-8%27%272ffdac8ffc20423d8c573c23c5d2492b.mp4&AccessKeyId=AKLTyz9w352bT_GJVfB-QVoo7A&Expires=1627976381503&Signature=22e655e30e394a49ae30f4eb64fc6fb9
-#EXTINF:-1 ,====== NEWTV,#genre# ======
+#EXTINF:-1 ,NEWTV 
 http://18/18.m3u8
 #EXTINF:-1 ,中国功夫
 http://39.135.138.60:18890/PLTV/88888910/224/3221225660/index.m3u8
@@ -1883,7 +987,7 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225768/index.m3u8
 http://39.135.138.60:18890/PLTV/88888910/224/3221225620/index.m3u8
 #EXTINF:-1 ,金牌综艺
 http://39.135.138.60:18890/PLTV/88888910/224/3221225711/index.m3u8
-#EXTINF:-1 ,====== SiTV,#genre# ======
+#EXTINF:-1 ,SiTV 
 http://19/19.m3u8
 #EXTINF:-1 ,七彩戏剧
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/qcxj/1300000/mnf.m3u8
@@ -1915,7 +1019,7 @@ http://39.134.39.39/PLTV/88888888/224/3221226176/index.m3u8
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jingsepd/1300000/mnf.m3u8
 #EXTINF:-1 ,魅力足球
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
-#EXTINF:-1 ,====== 加拿大,#genre# ======
+#EXTINF:-1 ,加拿大 
 http://20/20.m3u8
 #EXTINF:-1 ,The Shopping Channel
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
@@ -1951,23 +1055,7 @@ https://live.corusdigitaldev.com/groupc/live/f191ef59-6c28-42ba-86d0-d47df528024
 https://live.corusdigitaldev.com/groupb/live/564df695-94f9-4f27-b1b9-0a936ab01721/live.isml/.m3u8
 #EXTINF:-1 ,Global Toronto
 https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8
-#EXTINF:-1 ,NACTV
-http://stream.pivotalelements.com/nactv/stream.m3u8
-#EXTINF:-1 ,Ontario Parliamentary Network
-http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
-#EXTINF:-1 ,Ontario Parliamentary Network (FR)
-http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8
-#EXTINF:-1 ,Prime Asia TV
-http://primeasia.dyndns.tv:8080/Live_web_250/index.m3u8
-#EXTINF:-1 ,Prime Canada TV
-http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
-#EXTINF:-1 ,Tamil Vision International
-http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8
-#EXTINF:-1 ,Tamil Vision TV
-http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8
-#EXTINF:-1 ,Pardesi TV
-http://stream.pardesitv.online/pardesi/index.m3u8
-#EXTINF:-1 ,====== 法国,#genre# ======
+#EXTINF:-1 ,法国 
 http://21/21.m3u8
 #EXTINF:-1 ,4 Kurd
 http://51.210.199.28/hls/stream.m3u8
@@ -2033,54 +1121,6 @@ https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20
 https://euronews-euronews-world-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,Euronews
 https://euronews-euronews-world-1.roku.wurl.com/manifest/b34060fcaf527710b244a3e16504edd0.m3u8
-#EXTINF:-1 ,Euronews (Belguim)
-https://rakuten-euronews-2-be.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,Euronews (Brazil)
-https://euronews-euronews-portugues-1-br.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,Euronews (Denmark)
-https://rakuten-euronews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,Euronews (Finland)
-https://rakuten-euronews-1-fi.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,Euronews (France)
-https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,Euronews (Ireland)
-https://rakuten-euronews-1-ie.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,Euronews (luxemburg)
-https://rakuten-euronews-2-lu.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,Euronews (Mexico)
-https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,Euronews (Netherlands)
-https://rakuten-euronews-1-nl.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,Euronews (Norway)
-https://rakuten-euronews-1-no.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,Euronews (Portugal)
-https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,Euronews (Sweden)
-https://rakuten-euronews-1-se.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,Euronews Deutsch
-https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,Euronews en Espa?ol
-https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,Euronews en Fran?ais
-https://alchimie-euronews-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,Euronews Espa?ol
-https://euronews-euronews-spanish-2.plex.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,Euronews HD
-https://euronews-euronews-world-1.roku.wurl.com/manifest/71bf778598cc9ce36952bb8a3331551a.m3u8
-#EXTINF:-1 ,Euronews in English
-https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,Euronews in English
-https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,Euronews in English
-https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,Euronews Italiano
-https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,Euronews via Alchimie (England)
-https://alchimie-euronews-4-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,Euronews via Alchimie (Italy)
-https://alchimie-euronews-2-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,Euronews via Alchimie (Spain)
-https://alchimie-euronews-3-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,Euronews | ES
 https://euronews-euronews-spanish-2.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,Fashion TV
@@ -2089,139 +1129,11 @@ http://entertainment.ashttp9.visionip.tv/live/visiontvuk-entertainment-edgytv-hs
 http://edge9.iptvnetwork.net/live/france2/playlist.m3u8
 #EXTINF:-1 ,France 24
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_old_900.m3u8
-#EXTINF:-1 ,France 24 Arabic
-https://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
-#EXTINF:-1 ,France 24 English
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-#EXTINF:-1 ,France 24 English
-https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
-#EXTINF:-1 ,France 24 English
-https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1 ,France 24 Espa?ol
-https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
-#EXTINF:-1 ,France 24 Espa?ol
-https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
-#EXTINF:-1 ,France 24 Fran?ais
-https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
-#EXTINF:-1 ,France 24 Fran?ais
-https://static.france24.com/live/F24_FR_HI_HLS/live_web.m3u8
 #EXTINF:-1 ,France 3
 http://edge9.iptvnetwork.net/live/france3/playlist.m3u8
 #EXTINF:-1 ,France 4
 http://edge9.iptvnetwork.net/live/france4/playlist.m3u8
-#EXTINF:-1 ,Francophonie24
-https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8
-#EXTINF:-1 ,Generations TV
-https://edge10.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
-#EXTINF:-1 ,Gulli Bil Arabi
-https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
-#EXTINF:-1 ,Gulli Girl
-http://188.40.68.167/russia/gulli_girl/playlist.m3u8
-#EXTINF:-1 ,HodHod TV
-http://51.210.199.12/hls/stream.m3u8
-#EXTINF:-1 ,Humanity
-https://alchimie-humanity-2-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,Humanity
-https://alchimie-humanity-3-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,ILTV
-https://str81.creacast.com/iltv/high/playlist.m3u8
-#EXTINF:-1 ,KTO LCI
-https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
-#EXTINF:-1 ,Luxe TV
-https://alchimie-luxe-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,Luxe TV
-https://alchimie-luxe-2-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,Magellan TV
-https://magellantv-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,MDL
-http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
-#EXTINF:-1 ,Midnight Pulp
-https://midnightpulp-samsung.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,MMA TV
-https://alchimie-mmatv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,MMA TV
-https://alchimie-mmatv-2-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,Moods
-https://alchimie-moods-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,Moods
-https://alchimie-moods-2-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,MotorSport.TV
-https://alchimie-motor-sport-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,Movies Central
-https://alchimie-movies-central-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,My Surf TV
-https://alchimie-mysurf-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,My Surf TV
-https://alchimie-mysurf-2-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,Nancy Web TV
-https://edge4.vedge.infomaniak.com/livecast/ik:nancy-webtv/manifest.m3u8
-#EXTINF:-1 ,Persiana Billboard
-http://51.210.199.10/hls/stream.m3u8
-#EXTINF:-1 ,Persiana Cinema
-http://51.210.199.15/hls/stream.m3u8
-#EXTINF:-1 ,Persiana Comedy
-http://51.210.199.27/hls/stream.m3u8
-#EXTINF:-1 ,Persiana Family
-http://51.210.199.19/hls/stream.m3u8
-#EXTINF:-1 ,Persiana Junior
-http://51.210.199.18/hls/stream.m3u8
-#EXTINF:-1 ,Persiana Korea
-http://51.210.199.14/hls/stream.m3u8
-#EXTINF:-1 ,Persiana Music
-http://51.210.199.24/hls/stream.m3u8
-#EXTINF:-1 ,Persiana Nostalgia
-http://51.210.199.20/hls/stream.m3u8
-#EXTINF:-1 ,Persiana Plus
-http://51.210.199.21/hls/stream.m3u8
-#EXTINF:-1 ,Persiana Sonati
-http://51.210.199.59/hls/stream.m3u8
-#EXTINF:-1 ,Persiana Varzesh
-http://51.210.199.16/hls/stream.m3u8
-#EXTINF:-1 ,Poker TV
-http://51.210.199.17/hls/stream.m3u8
-#EXTINF:-1 ,Sport en France
-https://alchimie-sport-en-france-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,Stormcast Novelas TV
-https://stormcast-telenovelatv-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,Supertoons TV
-https://kedoo-supertoonstv-3-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,Tiji Russia
-http://188.40.68.167/russia/tiji/playlist.m3u8
-#EXTINF:-1 ,TMA Cara?bes
-http://hls.tmacaraibes.com/live/index.m3u8
-#EXTINF:-1 ,Trace Sport Stars (Australia)
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,Trace Urban (Australia)
-https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,TV5Monde Francia FR
-https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/index.m3u8
-#EXTINF:-1 ,TV5Monde Info
-https://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
-#EXTINF:-1 ,TV7 Colmar
-http://tv7.hdr-tv.com:1935/live/tv7/livestream/playlist.m3u8
-#EXTINF:-1 ,TV7 Colmar
-https://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
-#EXTINF:-1 ,TV78
-https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
-#EXTINF:-1 ,TV78
-https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/playlist.m3u8
-#EXTINF:-1 ,TVR (Bretagne)
-https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
-#EXTINF:-1 ,TébéSud
-https://edge-live-ger1.ovstream.com/hls/10/index.m3u8
-#EXTINF:-1 ,Unearth
-https://alchimie-unearth-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,Unearth
-https://alchimie-unearth-2-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,Unearth (Spain)
-https://alchimie-unearth-3-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,Vià Occitanie
-https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117_medium/index.m3u8
-#EXTINF:-1 ,viàMATéLé
-https://streamer01.myvideoplace.tv/streamer02/hls/MATL_VLOC_PAD_100919_medium/index.m3u8
-#EXTINF:-1 ,viàMoselleTV
-https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
-#EXTINF:-1 ,====== 新西兰,#genre# ======
+#EXTINF:-1 ,新西兰 
 http://22/22.m3u8
 #EXTINF:-1 ,Breeze TV (720p)
 https://livestreamdirect-breezetv.mediaworks.nz/breezetv.m3u8
@@ -2243,7 +1155,7 @@ https://rockentertainment-zoomoo-1.roku.wurl.com/manifest/playlist.m3u8
 https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,Zoo Moo (Australia) (1080p)
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,====== 英法德意,#genre# ======
+#EXTINF:-1 ,英法德意,#genre# 
 http://23/23.m3u8
 #EXTINF:-1 ,法国Francophonie 24
 http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
@@ -2269,13 +1181,11 @@ http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
 http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
 #EXTINF:-1 ,意大利Video Brescia
 http://wms.shared.streamshow.it:1935/videobrescia/videobrescia/live.m3u8
-#EXTINF:-1 ,意大利Video Calabria
-http://wms.shared.streamshow.it:80/videocalabria/videocalabria/playlist.m3u8
 #EXTINF:-1 ,西班牙Canal Parlamento (Updated)
 http://congresodirecto-f.akamaihd.net:80/i/congreso6_1@54665/master.m3u8
 #EXTINF:-1 ,西班牙TV Galicia Europa
 http://europa-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 ,====== 俄罗斯,#genre# ======
+#EXTINF:-1 ,俄罗斯 
 http://24/24.m3u8
 #EXTINF:-1 ,俄罗斯First Music (Opt-3)
 http://rtmp.one.by:1200
@@ -2313,7 +1223,7 @@ http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlis
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 #EXTINF:-1 ,俄罗斯Ugra TV
 http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8
-#EXTINF:-1 ,====== 新西兰,#genre# ======
+#EXTINF:-1 ,新西兰 
 http://25/25.m3u8
 #EXTINF:-1 ,Maori TV (1080p)
 https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master.m3u8
@@ -2331,7 +1241,7 @@ https://rockentertainment-zoomoo-1.roku.wurl.com/manifest/playlist.m3u8
 https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,Zoo Moo (Australia) (1080p)
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,====== 海外其它,#genre# ======
+#EXTINF:-1 ,海外其它 
 http://26/26.m3u8
 #EXTINF:-1 ,波兰TV Kujawy (Opt-1)
 http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
@@ -2411,30 +1321,12 @@ http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
 http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
 #EXTINF:-1 ,摩洛哥Al Maghribia
 http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
-#EXTINF:-1 ,====== CETV,#genre# ======
+#EXTINF:-1 ,CETV,#genre# 
 http://27/27.m3u8
 #EXTINF:-1 ,CETV 4
 http://111.12.101.23:6610/PLTV/77777777/224/3221225723/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,CETV 4
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225937/index.m3u8
-#EXTINF:-1 ,CETV 4
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225969/index.m3u8?fmt=ts2hls
 #EXTINF:-1 ,CETV-1
 http://111.12.101.23:6610/PLTV/77777777/224/3221225776/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,CETV-1
-http://183.207.248.71:80/cntv/live1/n-jiaoyutv/n-jiaoyutv
-#EXTINF:-1 ,CETV-1
-http://202.204.118.254/hls/ch53.m3u8
-#EXTINF:-1 ,CETV-1
-http://223.110.228.13/ott.js.chinamobile.com/PLTV/3/224/3221227560/index.m3u8
-#EXTINF:-1 ,CETV-1
-http://39.130.202.114:6610/gitv_live/G_CETV-1-HD/G_CETV-1-HD.m3u8
-#EXTINF:-1 ,CETV-1
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225563/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,CETV-1
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225661/index.m3u8
-#EXTINF:-1 ,CETV-1
-http://shbu.live.bestvcdn.com.cn:8080/live/program/live/zgjy1ott/4000000/mnf.m3u8
 #EXTINF:-1 ,CETV-2
 http://183.207.248.71:80/cntv/live1/SD-4000k-576P-jiaoyutv2/SD-4000k-576P-jiaoyutv2
 #EXTINF:-1 ,CETV-4
@@ -2451,7 +1343,7 @@ http://cclive2.aniu.tv/live/anzb.m3u8
 http://223.110.241.137:6610/gitv/live1/G_YITANCQ/G_YITANCQ/.m3u8
 #EXTINF:-1 ,移动戏曲
 http://hndxrm1.8686c.com/live/live31_tzwj_500k.m3u8
-#EXTINF:-1 ,====== 体育,#genre# ======
+#EXTINF:-1 ,体育
 http://28/28.m3u8
 #EXTINF:-1 ,篮球
 http://223.110.241.137:6610/gitv/live1/G_LANQIU/G_LANQIU/.m3u8
@@ -2481,7 +1373,7 @@ http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/hdnba5/4000000/mnf.m3u8
 #EXTINF:-1 ,009
 http://111.31.3.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_235_600_t10/c56_lb_235_600_t10.m3u8
-#EXTINF:-1 ,====== 音乐,#genre# ======
+#EXTINF:-1 ,音乐 
 http://29/29.m3u8
 #EXTINF:-1 ,一暝三冬
 http://jsmov2.a.yximgs.com:80/upic/2019/12/24/23/BMjAxOTEyMjQyMzQ1MDdfMTU0MDc1NjUwOF8yMDg5MTYxODE5MF8yXzM=_b_Bc77d889c7e0d63278485e6c22800c903.mp4
@@ -2767,7 +1659,7 @@ http://vodcdn.video.taobao.com/oss/ali-video/c018ec304eb6566b56d7f0b85c77b473/vi
 http://vodcdn.video.taobao.com/oss/ali-video/b8096cd4762369bbcb4ceb52cc25a938/video.m3u8
 #EXTINF:-1 ,李翊君-多情人都把灵魂给了谁
 http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/o1koj80kDcERprb8epC%40%40hd.m3u8
-#EXTINF:-1 ,====== 2021神曲,#genre# ======
+#EXTINF:-1 ,2021神曲 
 http://30/30.m3u8
 #EXTINF:-1 ,白月光与朱砂痣
 https://vd2.bdstatic.com/mda-maij6as3g96970az/v1-cae/sc/mda-maij6as3g96970az.mp4?auth_key=1617101183-0-0-e93e7dc4ba17ac4b7480e6b00aa74492&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&did=087106dc4a782a246579d010463c3ad0&logid=0983209397&vid=1749499625834732513&pt=0&appver=2.7.6.2&model=MI+5&osver=10&cr=2&abtest=peav_l52&sle=1&sl=2358&split=2102146
@@ -2849,7 +1741,7 @@ https://vd2.bdstatic.com/mda-kjkxdb0reyrn5uqc/v1-cae/sc/mda-kjkxdb0reyrn5uqc.mp4
 https://vd2.bdstatic.com/mda-khr03rq4hg98n7ev/v1-cae/sc/mda-khr03rq4hg98n7ev.mp4?auth_key=1618124543-0-0-d5a5a0877200c5024e18c5eb81510cc6&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&did=087106dc4a782a246579d010463c3ad0&logid=1942874672&vid=11325929779437788360&pt=0&appver=2.7.6.2&model=MI+5&osver=10&cr=2&abtest=peav_l52&sle=1&sl=863&split=909564
 #EXTINF:-1 ,嗑儿
 https://vd2.bdstatic.com/mda-kb0py6ag3p1267rm/v1-cae/sc/mda-kb0py6ag3p1267rm.mp4?auth_key=1617100855-0-0-3d21077593827b36ddc4c38beaa49fcc&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&did=087106dc4a782a246579d010463c3ad0&logid=0654833497&vid=4753646364703878220&pt=0&appver=2.7.6.2&model=MI+5&osver=10&cr=2&abtest=peav_l52&sle=1&sl=1567&split=1469406
-#EXTINF:-1 ,====== 海外音乐,#genre# ======
+#EXTINF:-1 ,海外音 
 http://31/31.m3u8
 #EXTINF:-1 ,排笛[老鹰之歌]
 https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200317/5623330n7oQ6uBlXFhUdZTz3A-safe1600663646.m3u8
@@ -2895,7 +1787,7 @@ https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgw9ma4gUo3YLDvgU.mp4
 https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgp92c4gUovM-V_QU.mp4
 #EXTINF:-1 ,EXID - Every Night
 https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgz-qc4gUo4vj-tQY.mp4
-#EXTINF:-1 ,====== 音乐频道,#genre# ======
+#EXTINF:-1 ,音乐频道 
 http://32/32.m3u8
 #EXTINF:-1 ,30A Music[1280*720]
 https://30a-tv.com/music.m3u8
@@ -2949,7 +1841,7 @@ http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 #EXTINF:-1 ,1MusicChannel
 http://www.1music.hu/1music.m3u8
-#EXTINF:-1 ,====== Fail Army,#genre# ======
+#EXTINF:-1 ,Fail Army 
 http://33/33.m3u8
 #EXTINF:-1 ,Brazil
 https://failarmy-international-br.samsung.wurl.com/manifest/playlist.m3u8
@@ -2979,10 +1871,10 @@ https://failarmy-international-eu.rakuten.wurl.com/manifest/playlist.m3u8
 https://failarmy-linear.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,FailArmy
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/554158e864526b29254ff105/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=498&deviceId=554158e864526b29254ff105&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 ,People are Awesome 
+http://34/34.m3u8
 #EXTINF:-1 ,People are Awesome (720p)
 https://a357e37df8ec46719fdeffa29a3e8e40.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex-intl_PeopleAreAwesome/8fe64d6c-210c-42ac-8b42-8006b8721cf4/3.m3u8
-#EXTINF:-1 ,====== People are Awesome,#genre# ======
-http://34/34.m3u8
 #EXTINF:-1 ,People are Awesome
 https://jukin-peopleareawesome-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,People are Awesome
@@ -3009,7 +1901,7 @@ https://csm-e-cetubiausw2live204-0d03c1c1e1332a1c7.csm.tubi.video/csm/live/24183
 https://d1qaz9zojo1ayt.cloudfront.net/playlist.m3u8
 #EXTINF:-1 ,People TV (STIRR) (1080p)
 https://dai.google.com/linear/hls/event/Fe9LYYCFR5Csif-I5dyMHg/master.m3u8
-#EXTINF:-1 ,====== 电台-港台,#genre# ======
+#EXTINF:-1 ,电台-港台
 http://35/35.m3u8
 #EXTINF:-1 ,香港电台第一台
 https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/master.m3u8
@@ -3029,7 +1921,7 @@ https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8
 http://59.120.88.155:8000/live.mp3
 #EXTINF:-1 ,台湾大千电台
 http://stream.superfm99-1.com.tw:8554/
-#EXTINF:-1 ,====== Miami Channel_6666,#genre# ======
+#EXTINF:-1 ,Miami Channel 
 http://36/36.m3u8
 #EXTINF:-1 ,Happy Channel
 https://ivm.antenaplay.ro/live/happy/playlist.m3u8
