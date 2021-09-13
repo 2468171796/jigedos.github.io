@@ -600,7 +600,7 @@ CCTV-17农业农村,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/322122
 重庆卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225612/index.m3u8?fmt=ts2hls
 重庆卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225692/index.m3u8
 重庆卫视,http://223.110.245.154/ott.js.chinamobile.com/PLTV/3/224/3221227729/index.m3u8
-VGTN,#genre#
+CGTN,#genre#
 CGTN,http://111.12.101.23:6610/PLTV/77777777/224/3221225707/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 CGTN,http://live.cgtn.com/500/prog_index.m3u8
 CGTN,https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
@@ -2118,7 +2118,7 @@ SITV,#genre#
 麦子动漫解说,http://txdirect.flv.huya.com/huyalive/94525224-2706361404-11623733721336643584-2671908056-10057-A-0-1.flv?wsSecret=580f14cd437a293bcede13b54d2b3712&wsTime=610fc9db&uid=0&seqid=16283382530871368&ctype=tars_mobile&ver=1&t=103
 音乐小石榴,http://txdirect.flv.huya.com/huyalive/1199512344405-1199512344405-5224693802798678016-2399024812266-10057-A-0-1.flv?wsSecret=a558fdaa03cec3b1a4ea66b7c0201ca8&wsTime=610fc9ed&uid=0&seqid=16283382534222412&ctype=tars_mobile&ver=1&t=103
 今晚80后脱口秀,http://txdirect.flv.huya.com/huyalive/1423787862-1423787862-6115122303731761152-2847699180-10057-A-0-1.flv?wsSecret=bd195e93f943f5510332c43d66eaa228&wsTime=610fc9d0&uid=0&seqid=16283382536419460&ctype=tars_mobile&ver=1&t=103
-IHTOT,#genre#
+IHOT,#genre#
 爱奇谈,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230023/index.m3u8
 爱玩具,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230026/index.m3u8
 爱电竞,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230029/index.m3u8
@@ -2143,7 +2143,7 @@ IHTOT,#genre#
 生活,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230112/index.m3u8
 爱科学,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230115/index.m3u8
 爱家庭,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230118/index.m3u8
-TUTO,#genre#
+AUTO,#genre#
 100% Auto Moto TV (1080p),http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 Bumblebee TV MotorCyclist (1080p),https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2218bd5eeee0f5a40941b/playlist.m3u8
 Choppertown (720p),https://d275e95ir6yrv9.cloudfront.net/dist/localnow/11/hls/master/playlist.m3u8
