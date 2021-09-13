@@ -2293,14 +2293,6 @@ Zoo Moo (Australia) (1080,https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 摩洛哥Arryadia,http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
 摩洛哥Al Maghribia,http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
 MIAMI_8888,#genre#
-abc01,https://video2.caomin5168.com/20190611/pHVmpcHE/index.m3u8
-abc02,https://video2.caomin5168.com/20190701/0rCWVnUK/index.m3u8
-abc03,https://video2.caomin5168.com/20190701/X3NsC4tZ/index.m3u8
-abc04,https://video2.caomin5168.com/20190703/gzPniN4l/index.m3u8
-abc05,https://video2.caomin5168.com/20190720/ix2ZSf0n/index.m3u8
-abc06,https://video2.caomin5168.com/20190720/n7WvAS2c/index.m3u8
-abc07,https://video2.caomin5168.com/20190731/3qzzqT1v/index.m3u8
-abc08,https://video2.caomin5168.com/20190812/T4jzOqaR/index.m3u8
 abc09,https://videozm.dlyilian.com:8091/20190913/74QA1AND/1000kb/hls/index.m3u8
 abc10,https://videozm.dlyilian.com:8091/20190913/9pLSy0go/1000kb/hls/index.m3u8
 abc11,https://videozm.dlyilian.com:8091/20190913/J6FX5I5H/1000kb/hls/index.m3u8
@@ -2311,6 +2303,14 @@ abc15,https://videozm.dlyilian.com:8091/20190913/USVA5HK6/1000kb/hls/index.m3u8
 abc16,https://videozm.dlyilian.com:8091/20190913/WY7xAK4X/1000kb/hls/index.m3u8
 abc17,https://videozm.dlyilian.com:8091/20190913/Y2tuGFX3/1000kb/hls/index.m3u8
 abc18,https://videozm.dlyilian.com:8091/20190913/yavXC3LS/1000kb/hls/index.m3u8
+abc01,https://video2.caomin5168.com/20190611/pHVmpcHE/index.m3u8
+abc02,https://video2.caomin5168.com/20190701/0rCWVnUK/index.m3u8
+abc03,https://video2.caomin5168.com/20190701/X3NsC4tZ/index.m3u8
+abc04,https://video2.caomin5168.com/20190703/gzPniN4l/index.m3u8
+abc05,https://video2.caomin5168.com/20190720/ix2ZSf0n/index.m3u8
+abc06,https://video2.caomin5168.com/20190720/n7WvAS2c/index.m3u8
+abc07,https://video2.caomin5168.com/20190731/3qzzqT1v/index.m3u8
+abc08,https://video2.caomin5168.com/20190812/T4jzOqaR/index.m3u8
 abc19,https://video2.caomin5168.com/20190904/q9R7n3Ua/index.m3u8
 abc20,https://video2.caomin5168.com/20190904/q8UudPOq/index.m3u8
 abc21,https://video2.caomin5168.com/20190904/pGDczLc2/index.m3u8
